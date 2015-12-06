@@ -1,5 +1,5 @@
 <books>
-	<book language="French">
+	<book language="French" cool="yes">
 		<title>Désert</title>
 		<author>Le Clézio</author>
 	</book>
@@ -8,6 +8,6 @@
 			Contes du XIXème siècle
 		</title>
 		<author>Flaubert</author>
-		<author>Gauter</author>
+		<author>Gautier</author>
 	</book>
 </books>

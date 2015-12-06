@@ -5,7 +5,8 @@ module Parser(
 			  zeroOuPlus,
 			  unOuPlus,
 			  showParsingError,
-              (|||)
+              (|||),
+			  (!!!)
              )  
     where
 
@@ -35,6 +36,12 @@ module Parser(
     p >>> pf = MkParser (\s -> case parse p s of
                                  Right error -> Right error
                                  Left (a, s') -> parse (pf a) s')
+
+    (!!!) :: Parser a -> (String -> Parser a) -> Parser a
+    p !!! pf = MkParser (\s -> case parse p s of
+                                 Right error -> parse (pf error) s
+                                 r           -> r)
+		
 
     zeroOuPlus :: Parser a -> Parser [a]
     zeroOuPlus p = unOuPlus p ||| retourne []

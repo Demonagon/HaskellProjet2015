@@ -49,6 +49,14 @@ readResults :: [XmlTree] -> IO ()
 readResults [] = putStrLn "No results !"
 readResults ts = putStrLn (showXQueryResult ts)
 
+testParseXmlTree :: String -> IO ()
+testParseXmlTree path = do
+					content <- getAllFile path
+					result <- executeParseXmlTree content
+					case result of
+						Left tree -> putStrLn (showXmlTree tree)
+						Right error -> putStrLn error
+
 
 type ParserResult a = Either a String
 
@@ -107,7 +115,7 @@ showXmlAttribut (space, value) = space ++ "=\"" ++ value ++ "\""
 showXmlAttributs :: [XmlAttribut] -> String
 showXmlAttributs [] = ""
 showXmlAttributs (x:[]) = " " ++ showXmlAttribut x
-showXmlAttributs (x:xs) = " " ++ showXmlAttribut x ++ "," ++ showXmlAttributs xs
+showXmlAttributs (x:xs) = " " ++ showXmlAttribut x ++ showXmlAttributs xs
 
 showXmlElement :: XmlElement -> String
 showXmlElement (Tree (name, attributs, nodes) ) =
@@ -161,6 +169,8 @@ parserWord (c:cs) = do
 						r <- parserChars [c];
 						rs <- parserWord cs;
 						return (r:rs);
+					!!!
+					(\error -> fail (error ++ " : pendant la recherche du mot " ++ (c:cs) ) ) 
 					
 
 parserSpace :: Parser [Char]
@@ -198,7 +208,7 @@ parserNoeud = do
 			  	parserSpace;
 			  	elements <- zeroOuPlus parserElement;
 				parserSpace;
-			  	parserBorneFermante nom;
+			  	parserBorneFermante nom elements;
 			  	return (nom, attributs, elements);
 
 parserElement :: Parser XmlElement
@@ -246,16 +256,20 @@ parserText = do
 					cs -> return text;
 
 parserNom :: Parser [Char]
-parserNom = parserTextUntil "=<> \"\t\n"
+parserNom = parserTextUntil "=<> \"\t\n\r"
 
-parserBorneFermante :: String -> Parser XmlNom
-parserBorneFermante nom = do
+parserBorneFermante :: String -> [XmlElement] -> Parser XmlNom
+parserBorneFermante nom es = do
 							parserSpace;
 							parserWord "</";
 							parserWord nom;
 							parserSpace;
 							parserChars ">";
 							return nom;
+						!!!
+						(\error -> fail (error ++
+							" : pendant la lecture de la borne fermante </"
+							++ nom ++ "> avec pour éléments internes " ++ showXmlElements es) )
 
 -- || XPATH
 
@@ -298,30 +312,35 @@ showXCondition (XStr (a, b)) = a ++ "='" ++ b ++ "'"
 showXCondition (XSibling n) = show n
 
 parserXRequest :: Parser XRequest
-parserXRequest = ( do
-				path <- parserPath;
-				return (Path path); ) |||
-				( do
-				parserWord "/";
-				return Rien; )
+parserXRequest = do
+					path <- parserPath;
+					return (Path path);
+				|||
+				do
+					parserWord "/";
+					return Rien;
 
 parserPath :: Parser XPath
-parserPath = ( do
-			 parserWord "/";
-			 elem <- parserXElement;
-			 next <- parserXRequest;
-			 return (elem, next); ) |||
-			 ( do
-			 parserWord "/"
-			 elem <- parserXElement;
-			 return (elem, Rien); )
+parserPath = do
+			 	parserWord "/";
+			 	elem <- parserXElement;
+			 	next <- parserXRequest;
+			 	return (elem, next);
+			|||
+			do
+				parserWord "/"
+				elem <- parserXElement;
+				return (elem, Rien);
 
 parserXElement :: Parser XElement
 parserXElement = do
 					parserSpace;
-					elem <- parserTextUntil " \t\n[@/";
-					conditions <- parserXConditions;
-					return (elem, conditions);
+					elem <- parserTextUntil " \t\n\r[/";
+					case elem of
+						"" -> fail "Element name missing in path"
+						_ -> do
+						conditions <- parserXConditions;
+						return (elem, conditions);
 
 parserXConditions :: Parser [XCondition]
 parserXConditions = ( do
@@ -342,7 +361,7 @@ parserXCondition :: Parser XCondition
 parserXCondition = do
 					parserSpacedWord "@";
 					parserSpace;
-					nom <- parserTextUntil " \n\t=";
+					nom <- parserTextUntil " \n\r\t=";
 					case nom of
 						"" -> fail "Erreur : nom d'attribut vide"
 						cs -> parserSpacedWord "=";
@@ -353,7 +372,7 @@ parserXCondition = do
                    |||
                    do
 					parserSpace;
-					nom <- parserTextUntil " \n\t=";
+					nom <- parserTextUntil " \n\r\t=";
 					case nom of
 						"" -> fail "Erreur : nom de condition vide"
 						cs -> parserSpacedWord "=";
@@ -415,11 +434,14 @@ checkXSiblingCondition 	sib
 						(t_name, t_attrs, t_sub)
 						n
 						(f_name, f_attrs, ( (Tree (s_name, s_attrs, s_sub)):sons) ) =
-	case s_name == t_name of
-		True -> case sib == 1 of
-					True -> n == 1
-					False -> checkXSiblingCondition (sib - 1) (t_name, t_attrs, t_sub) (n - 1) (f_name, f_attrs, sons)
-		False -> checkXSiblingCondition sib (t_name, t_attrs, t_sub) (n - 1) (f_name, f_attrs, sons)
+	case sib < 1 of
+		True -> False
+		False ->
+			case s_name == t_name of
+				True -> case sib == 1 of
+							True -> n == 1
+							False -> checkXSiblingCondition (sib - 1) (t_name, t_attrs, t_sub) (n - 1) (f_name, f_attrs, sons)
+				False -> checkXSiblingCondition sib (t_name, t_attrs, t_sub) (n - 1) (f_name, f_attrs, sons)
 
 checkXCondition :: XCondition -> XmlElement -> Integer -> XmlTree -> Bool
 checkXCondition _ (Text text) _ _ = False
