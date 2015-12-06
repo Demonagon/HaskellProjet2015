@@ -1,0 +1,13 @@
+<books>
+	<book language="French">
+		<title>Désert</title>
+		<author>Le Clézio</author>
+	</book>
+	<book>
+		<title>
+			Contes du XIXème siècle
+		</title>
+		<author>Flaubert</author>
+		<author>Gauter</author>
+	</book>
+</books>

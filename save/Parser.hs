@@ -5,6 +5,7 @@ module Parser(
 			  zeroOuPlus,
 			  unOuPlus,
 			  showParsingError,
+			  erreur,
               (|||)
              )  
     where
@@ -12,8 +13,11 @@ module Parser(
     type Resultat a = Either (a, String) String
     newtype Parser a = MkParser (String -> Resultat a ) 
 
-    echoue :: String -> Parser a 
-    echoue str = MkParser (\_ -> Right str)
+    echoue :: Parser a 
+    echoue = MkParser (\_ -> Right "Passage par le parseur echoue")
+
+    erreur :: String -> Parser a
+    erreur str = MkParser (\_ -> Right str)
 
     retourne :: a -> Parser a
     retourne v = MkParser (\s -> Left (v, s))
@@ -51,5 +55,5 @@ module Parser(
     instance Monad Parser where
               (>>=) = (>>>)
               return = retourne
-              fail str = echoue str
+              fail _ = echoue 
 

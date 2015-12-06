@@ -1,0 +1,99 @@
+<body><pagetitle>Publications MOVE</pagetitle>
+<info>
+  <authors>
+    <author>Florent Avellaneda</author>
+    <author>Rémi Morin</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-319-07734-5_14">Exhibition of a Structural Bug with Wings. </title>
+  <venue url="db/conf/apn/pn2014.html#AvellanedaM14" conference="Petri Nets" pages="253-272">Petri Nets 2014:253-272</venue>
+  <year>2014</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Clara Bertolissi</author>
+    <author>Maribel Fernández</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1016/j.ic.2014.07.009">A metamodel of access control for distributed environments: Applications and properties. </title>
+  <venue url="db/journals/iandc/iandc238.html#BertolissiF14" journal="Inf. Comput. (IANDC)" pages="187-207" volume="238">Inf. Comput. (IANDC) 238:187-207 (2014)</venue>
+  <year>2014</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Clara Bertolissi</author>
+    <author>Silvio Ranise</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1504/IJITST.2014.065188">A SMT-based methodology for monitoring of
+  security-aware workflows. </title>
+  <venue>Int. J. Internet Technology and Secured
+Transactions, Vol. 5, No. 3, 2014</venue>
+  <year>2014</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Johann Brault-Baron</author>
+    <author>Florent Capelli</author>
+    <author>Stefan Mengel</author>
+  </authors>
+  <title ee="http://arxiv.org/abs/1405.6043">Understanding model counting for $β$-acyclic CNF-formulas. </title>
+  <venue url="db/journals/corr/corr1405.html#Brault-BaronCM14" journal="CoRR" volume="abs/1405.6043">CoRR abs/1405.6043 (2014)</venue>
+  <year>2014</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Krishnendu Chatterjee</author>
+    <author>Laurent Doyen 0001</author>
+    <author>Hugo Gimbert</author>
+    <author>Youssouf Oualhadj</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-642-54830-7_14">Perfect-Information Stochastic Mean-Payoff Parity Games. </title>
+  <venue url="db/conf/fossacs/fossacs2014.html#Chatterjee0GO14" conference="FOSSACS" pages="210-225">FoSSaCS 2014:210-225</venue>
+  <year>2014</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Thomas Colcombet</author>
+    <author>Laure Daviaud</author>
+    <author>Florian Zuleger</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-662-44522-8_18">Size-Change Abstraction and Max-Plus Automata. </title>
+  <venue url="db/conf/mfcs/mfcs2014-1.html#ColcombetDZ14" conference="MFCS" pages="208-219">MFCS 2014:208-219</venue>
+  <year>2014</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Luc Dartois</author>
+    <author>Charles Paperman</author>
+  </authors>
+  <title ee="http://arxiv.org/abs/1401.6576">Adding modular predicates. </title>
+  <venue url="db/journals/corr/corr1401.html#DartoisP14" journal="CoRR" volume="abs/1401.6576">CoRR abs/1401.6576 (2014)</venue>
+  <year>2014</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Julien Ferté</author>
+    <author>Nathalie Marin</author>
+    <author>Géraud Sénizergues</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/s00224-013-9489-5">Word-Mappings of Level 2. </title>
+  <venue url="db/journals/mst/mst54.html#FerteMS14" journal="Theory Comput. Syst. (MST)" pages="111-148" number="1" volume="54">Theory Comput. Syst. (MST) 54(1):111-148 (2014)</venue>
+  <year>2014</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Julien Ferté</author>
+  </authors>
+  <title>Régularité et contraintes de descendance, équations
+  algébriques. </title>
+  <venue>Aix-Marseille Université, le 18 avril 2014</venue>
+  <year>2014</year>
+  <type>phdthesis</type>
+</info>
+</body>

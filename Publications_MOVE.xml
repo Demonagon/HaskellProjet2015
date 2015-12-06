@@ -1,0 +1,2388 @@
+
+<body><pagetitle>Publications MOVE</pagetitle>
+<info>
+  <authors>
+    <author>Florent Avellaneda</author>
+    <author>Rémi Morin</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-319-07734-5_14">Exhibition of a Structural Bug with Wings. </title>
+  <venue url="db/conf/apn/pn2014.html#AvellanedaM14" conference="Petri Nets" pages="253-272">Petri Nets 2014:253-272</venue>
+  <year>2014</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Clara Bertolissi</author>
+    <author>Maribel Fernández</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1016/j.ic.2014.07.009">A metamodel of access control for distributed environments: Applications and properties. </title>
+  <venue url="db/journals/iandc/iandc238.html#BertolissiF14" journal="Inf. Comput. (IANDC)" pages="187-207" volume="238">Inf. Comput. (IANDC) 238:187-207 (2014)</venue>
+  <year>2014</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Clara Bertolissi</author>
+    <author>Silvio Ranise</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1504/IJITST.2014.065188">A SMT-based methodology for monitoring of
+  security-aware workflows. </title>
+  <venue>Int. J. Internet Technology and Secured
+Transactions, Vol. 5, No. 3, 2014</venue>
+  <year>2014</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Johann Brault-Baron</author>
+    <author>Florent Capelli</author>
+    <author>Stefan Mengel</author>
+  </authors>
+  <title ee="http://arxiv.org/abs/1405.6043">Understanding model counting for $β$-acyclic CNF-formulas. </title>
+  <venue url="db/journals/corr/corr1405.html#Brault-BaronCM14" journal="CoRR" volume="abs/1405.6043">CoRR abs/1405.6043 (2014)</venue>
+  <year>2014</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Krishnendu Chatterjee</author>
+    <author>Laurent Doyen 0001</author>
+    <author>Hugo Gimbert</author>
+    <author>Youssouf Oualhadj</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-642-54830-7_14">Perfect-Information Stochastic Mean-Payoff Parity Games. </title>
+  <venue url="db/conf/fossacs/fossacs2014.html#Chatterjee0GO14" conference="FOSSACS" pages="210-225">FoSSaCS 2014:210-225</venue>
+  <year>2014</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Thomas Colcombet</author>
+    <author>Laure Daviaud</author>
+    <author>Florian Zuleger</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-662-44522-8_18">Size-Change Abstraction and Max-Plus Automata. </title>
+  <venue url="db/conf/mfcs/mfcs2014-1.html#ColcombetDZ14" conference="MFCS" pages="208-219">MFCS 2014:208-219</venue>
+  <year>2014</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Luc Dartois</author>
+    <author>Charles Paperman</author>
+  </authors>
+  <title ee="http://arxiv.org/abs/1401.6576">Adding modular predicates. </title>
+  <venue url="db/journals/corr/corr1401.html#DartoisP14" journal="CoRR" volume="abs/1401.6576">CoRR abs/1401.6576 (2014)</venue>
+  <year>2014</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Julien Ferté</author>
+    <author>Nathalie Marin</author>
+    <author>Géraud Sénizergues</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/s00224-013-9489-5">Word-Mappings of Level 2. </title>
+  <venue url="db/journals/mst/mst54.html#FerteMS14" journal="Theory Comput. Syst. (MST)" pages="111-148" number="1" volume="54">Theory Comput. Syst. (MST) 54(1):111-148 (2014)</venue>
+  <year>2014</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Julien Ferté</author>
+  </authors>
+  <title>Régularité et contraintes de descendance, équations
+  algébriques. </title>
+  <venue>Aix-Marseille Université, le 18 avril 2014</venue>
+  <year>2014</year>
+  <type>phdthesis</type>
+</info>
+<info>
+  <authors>
+    <author>Nathanaël Fijalkow</author>
+    <author>Hugo Gimbert</author>
+    <author>Florian Horn</author>
+    <author>Youssouf Oualhadj</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-662-44522-8_23">Two Recursively Inseparable Problems for Probabilistic Automata. </title>
+  <venue url="db/conf/mfcs/mfcs2014-1.html#FijalkowGHO14" conference="MFCS" pages="267-278">MFCS 2014:267-278</venue>
+  <year>2014</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Emmanuel Filiot</author>
+    <author>Pierre-Alain Reynier</author>
+  </authors>
+  <title ee="http://arxiv.org/abs/1412.0537">On Streaming String Transducers and HDT0L Systems. </title>
+  <venue url="db/journals/corr/corr1412.html#FiliotR14" journal="CoRR" volume="abs/1412.0537">CoRR abs/1412.0537 (2014)</venue>
+  <year>2014</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Jérôme Fortier</author>
+  </authors>
+  <title>Puissance expressive des preuves circulaires. </title>
+  <venue>Université du Québec à Montréal, le 19 décembre 2014</venue>
+  <year>2014</year>
+  <type>phdthesis</type>
+</info>
+<info>
+  <authors>
+    <author>Séverine Fratani</author>
+    <author>El Makki Voundy</author>
+  </authors>
+  <title ee="http://arxiv.org/abs/1409.6112">Context-free characterization of Indexed Languages. </title>
+  <venue url="db/journals/corr/corr1409.html#FrataniV14" journal="CoRR" volume="abs/1409.6112">CoRR abs/1409.6112 (2014)</venue>
+  <year>2014</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Sabine Frittella</author>
+    <author>Alessandra Palmigiano</author>
+    <author>Luigi Santocanale</author>
+  </authors>
+  <title ee="http://arxiv.org/abs/1408.1843">Dual characterizations for finite lattices via correspondence theory for monotone modal logic. </title>
+  <venue url="db/journals/corr/corr1408.html#FrittellaPS14" journal="CoRR" volume="abs/1408.1843">CoRR abs/1408.1843 (2014)</venue>
+  <year>2014</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Sabine Frittella</author>
+    <author>Luigi Santocanale</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-319-06251-8_27">Fixed-Point Theory in the Varieties $\mathcal{D}_{n}$. </title>
+  <venue url="db/conf/RelMiCS/ramics2014.html#FrittellaS14" conference="RAMICS" pages="446-462">RAMICS 2014:446-462</venue>
+  <year>2014</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Sabine Frittella</author>
+  </authors>
+  <title>Monotone modal logic and friends. </title>
+  <venue>Aix-Marseille Université, le 1 décembre 2014</venue>
+  <year>2014</year>
+  <type>phdthesis</type>
+</info>
+<info>
+  <authors>
+    <author>Hugo Gimbert</author>
+    <author>Youssouf Oualhadj</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-319-04298-5_25">Deciding the Value 1 Problem for $\sharp$ -acyclic Partially Observable Markov Decision Processes. </title>
+  <venue url="db/conf/sofsem/sofsem2014.html#GimbertO14" conference="SOFSEM" pages="281-292">SOFSEM 2014:281-292</venue>
+  <year>2014</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Stephane Martin</author>
+    <author>Tomasz Buchert</author>
+    <author>Pierric Willemet</author>
+    <author>Olivier Richard</author>
+    <author>Emmanuel Jeanvoine</author>
+    <author>Lucas Nussbaum</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1109/IPDPSW.2014.191">Scalable and Reliable Data Broadcast with Kascade. </title>
+  <venue url="db/conf/ipps/ipdps2014w.html#MartinBWRJN14" conference="IPDPS Workshops" pages="1717-1726">IPDPS Workshops 2014:1717-1726</venue>
+  <year>2014</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Peter Niebert</author>
+    <author>Mathieu Caralp</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-319-13749-0_2">Cellular Programming. </title>
+  <venue url="db/conf/tpnc/tpnc2014.html#NiebertC14" conference="TPNC" pages="11-22">TPNC 2014:11-22</venue>
+  <year>2014</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Youssouf Oualhadj</author>
+    <author>Pierre-Alain Reynier</author>
+    <author>Ocan Sankur</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-662-44584-6_15">Probabilistic Robust Timed Games. </title>
+  <venue url="db/conf/concur/concur2014.html#OualhadjRS14" conference="CONCUR" pages="203-217">CONCUR 2014:203-217</venue>
+  <year>2014</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Pierre-Alain Reynier</author>
+    <author>Jean-Marc Talbot</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-319-09698-8_12">Visibly Pushdown Transducers with Well-Nested Outputs. </title>
+  <venue url="db/conf/dlt/dlt2014.html#ReynierT14" conference="Developments in Language Theory" pages="129-141">Developments in Language Theory 2014:129-141</venue>
+  <year>2014</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Luigi Santocanale</author>
+    <author>Friedrich Wehrung</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1016/j.ejc.2014.06.004">The extended permutohedron on a transitive binary relation. </title>
+  <venue url="db/journals/ejc/ejc42.html#SantocanaleW14" journal="Eur. J. Comb. (EJC)" pages="179-206" volume="42">Eur. J. Comb. (EJC) 42:179-206 (2014)</venue>
+  <year>2014</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Luigi Santocanale</author>
+    <author>Friedrich Wehrung</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1142/S021819671450043X">Lattices of regular closed subsets of closure spaces. </title>
+  <venue url="db/journals/ijac/ijac24.html#SantocanaleW14" journal="IJAC" pages="969-1030" number="7" volume="24">IJAC 24(7):969-1030 (2014)</venue>
+  <year>2014</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Worachet Uttha</author>
+    <author>Clara Bertolissi</author>
+    <author>Silvio Ranise</author>
+  </authors>
+  <title ee="http://ceur-ws.org/Vol-1298/paper13.pdf">Towards a Reference Architecture for Access Control in Distributed Web Applications. </title>
+  <venue url="db/conf/essos/ds2014.html#UtthaBR14" conference="ESSoS Doctoral Symposium">ESSoS Doctoral Symposium 2014</venue>
+  <year>2014</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Luc André</author>
+    <author>Stéphane Martin</author>
+    <author>Gérald Oster</author>
+    <author>Claudia-Lavinia Ignat</author>
+  </authors>
+  <title ee="http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=6679969">Supporting adaptable granularity of changes for massive-scale collaborative editing. </title>
+  <venue url="db/conf/colcom/colcom2013.html#AndreMOI13" conference="CollaborateCom" pages="50-59">CollaborateCom 2013:50-59</venue>
+  <year>2013</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Florent Avellaneda</author>
+    <author>Rémi Morin</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1109/ACSD.2013.13">Checking Partial-Order Properties of Vector Addition Systems with States. </title>
+  <venue url="db/conf/acsd/acsd2013.html#AvellanedaM13" conference="ACSD" pages="100-109">ACSD 2013:100-109</venue>
+  <year>2013</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Florent Avellaneda</author>
+  </authors>
+  <title>Vérification de réseaux de Petri avec états sous une
+  sémantique d'ordres partiels. </title>
+  <venue>Aix-Marseille Université, le 10 décembre 2013</venue>
+  <year>2013</year>
+  <type>phdthesis</type>
+</info>
+<info>
+  <authors>
+    <author>Clara Bertolissi</author>
+    <author>Silvio Ranise</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-642-40885-4_4">Verification of Composed Array-Based Systems with Applications to Security-Aware Workflows. </title>
+  <venue url="db/conf/frocos/frocos2013.html#BertolissiR13" conference="FroCos" pages="40-55">FroCos 2013:40-55</venue>
+  <year>2013</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Clara Bertolissi</author>
+    <author>Silvio Ranise</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1109/ICITST.2013.6750251">A methodology to build run-time monitors for security-aware workflows. </title>
+  <venue url="db/conf/icitst/icitst2013.html#BertolissiR13" conference="ICITST" pages="501-502">ICITST 2013:501-502</venue>
+  <year>2013</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Clara Bertolissi</author>
+    <author>Worachet Uttha</author>
+  </authors>
+  <title ee="http://doi.acm.org/10.1145/2428116.2428125">Automated analysis of rule-based access control policies. </title>
+  <venue url="db/conf/plpv/plpv2013.html#BertolissiU13" conference="PLPV" pages="47-56">PLPV 2013:47-56</venue>
+  <year>2013</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Mathieu Caralp</author>
+    <author>Pierre-Alain Reynier</author>
+    <author>Jean-Marc Talbot</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-642-39274-0_9">Trimming Visibly Pushdown Automata. </title>
+  <venue url="db/conf/wia/ciaa2013.html#CaralpRT13" conference="CIAA" pages="84-96">CIAA 2013:84-96</venue>
+  <year>2013</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Mathieu Caralp</author>
+    <author>Emmanuel Filiot</author>
+    <author>Pierre-Alain Reynier</author>
+    <author>Frédéric Servais</author>
+    <author>Jean-Marc Talbot</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.4204/EPTCS.134.3">Expressiveness of Visibly Pushdown Transducers. </title>
+  <venue url="db/series/eptcs/eptcs134.html#CaralpFRST13" conference="TTATT" pages="17-26">TTATT 2013:17-26</venue>
+  <year>2013</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Thomas Colcombet</author>
+    <author>Laure Daviaud</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.4230/LIPIcs.STACS.2013.574">Approximate comparison of distance automata. </title>
+  <venue url="db/conf/stacs/stacs2013.html#ColcombetD13" conference="STACS" pages="574-585">STACS 2013:574-585</venue>
+  <year>2013</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Nadia Creignou</author>
+    <author>Raïda Ktari</author>
+    <author>Arne Meier</author>
+    <author>Julian-Steffen Müller</author>
+    <author>Frédéric Olive</author>
+    <author>Heribert Vollmer</author>
+  </authors>
+  <title ee="http://arxiv.org/abs/1309.5009">Parameterized Enumeration with Ordering. </title>
+  <venue url="db/journals/corr/corr1309.html#CreignouKMMOV13" journal="CoRR" volume="abs/1309.5009">CoRR abs/1309.5009 (2013)</venue>
+  <year>2013</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Luc Dartois</author>
+    <author>Charles Paperman</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.4230/LIPIcs.STACS.2013.329">Two-variable first order logic with modular predicates over words. </title>
+  <venue url="db/conf/stacs/stacs2013.html#DartoisP13" conference="STACS" pages="329-340">STACS 2013:329-340</venue>
+  <year>2013</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Emmanuel Filiot</author>
+    <author>Olivier Gauwin</author>
+    <author>Pierre-Alain Reynier</author>
+    <author>Frédéric Servais</author>
+  </authors>
+  <title ee="http://arxiv.org/abs/1301.5197">From Two-Way to One-Way Finite State Transducers </title>
+  <venue url="db/journals/corr/corr1301.html#abs-1301-5197" journal="CoRR" volume="abs/1301.5197">CoRR abs/1301.5197 (2013)</venue>
+  <year>2013</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Emmanuel Filiot</author>
+    <author>Olivier Gauwin</author>
+    <author>Pierre-Alain Reynier</author>
+    <author>Frédéric Servais</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1109/LICS.2013.53">From Two-Way to One-Way Finite State Transducers. </title>
+  <venue url="db/conf/lics/lics2013.html#FiliotGRS13" conference="LICS" pages="468-477">LICS 2013:468-477</venue>
+  <year>2013</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Jérôme Fortier</author>
+    <author>Luigi Santocanale</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.4230/LIPIcs.CSL.2013.248">Cuts for circular proofs: semantics and cut-elimination. </title>
+  <venue url="db/conf/csl/csl2013.html#FortierS13" conference="CSL" pages="248-262">CSL 2013:248-262</venue>
+  <year>2013</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Jérôme Fortier</author>
+    <author>Luigi Santocanale</author>
+  </authors>
+  <title ee="http://www.easychair.org/publications/?page=1682106189">Cuts for circular proofs. </title>
+  <venue url="db/conf/tacl/tacl2013.html#FortierS13" conference="TACL" pages="72-75">TACL 2013:72-75</venue>
+  <year>2013</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Jérôme Fortier</author>
+    <author>Alain Goupil</author>
+    <author>Jonathan Lortie</author>
+    <author>Jérôme Tremblay</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1016/j.tcs.2012.02.032">Exhaustive generation of gominoes. </title>
+  <venue url="db/journals/tcs/tcs502.html#FortierGLT13" journal="Theor. Comput. Sci. (TCS)" pages="76-87" volume="502">Theor. Comput. Sci. (TCS) 502:76-87 (2013)</venue>
+  <year>2013</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Omer Landry Nguena-Timo</author>
+    <author>Pierre-Alain Reynier</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1051/ita/2012029">On characteristic formulae for Event-Recording Automata. </title>
+  <venue url="db/journals/ita/ita47.html#TimoR13" journal="RAIRO - Theor. Inf. and Applic. (ITA)" pages="69-96" number="1" volume="47">RAIRO - Theor. Inf. and Applic. (ITA) 47(1):69-96 (2013)</venue>
+  <year>2013</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Pierre-Alain Reynier</author>
+    <author>Frédéric Servais</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.3233/FI-2013-781">Minimal Coverability Set for Petri Nets: Karp and Miller Algorithm with Pruning. </title>
+  <venue url="db/journals/fuin/fuin122.html#ReynierS13" journal="Fundam. Inform. (FUIN)" pages="1-30" number="1-2" volume="122">Fundam. Inform. (FUIN) 122(1-2):1-30 (2013)</venue>
+  <year>2013</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Ocan Sankur</author>
+    <author>Patricia Bouyer</author>
+    <author>Nicolas Markey</author>
+    <author>Pierre-Alain Reynier</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-642-40184-8_38">Robust Controller Synthesis in Timed Automata. </title>
+  <venue url="db/conf/concur/concur2013.html#SankurBMR13" conference="CONCUR" pages="546-560">CONCUR 2013:546-560</venue>
+  <year>2013</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Luigi Santocanale</author>
+    <author>Friedrich Wehrung</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/s11083-011-9225-1">Varieties of Lattices with Geometric Descriptions. </title>
+  <venue url="db/journals/order/order30.html#SantocanaleW13" journal="Order" pages="13-38" number="1" volume="30">Order 30(1):13-38 (2013)</venue>
+  <year>2013</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Luigi Santocanale</author>
+    <author>Friedrich Wehrung</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1016/j.aam.2013.03.003">Sublattices of associahedra and permutohedra. </title>
+  <venue>Advances in Applied Mathematics 51 (3) (2013) 419-445</venue>
+  <year>2013</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Mehdi Ahmed-Nacer</author>
+    <author>Stéphane Martin</author>
+    <author>Pascal Urso</author>
+  </authors>
+  <title ee="http://arxiv.org/abs/1207.5990">File system on CRDT </title>
+  <venue url="db/journals/corr/corr1207.html#abs-1207-5990" journal="CoRR" volume="abs/1207.5990">CoRR abs/1207.5990 (2012)</venue>
+  <year>2012</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>S. Akshay</author>
+    <author>Loïc Hélouët</author>
+    <author>Claude Jard</author>
+    <author>Pierre-Alain Reynier</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-642-33512-9_9">Robustness of Time Petri Nets under Guard Enlargement. </title>
+  <venue url="db/conf/rp/rp2012.html#AkshayHJR12" conference="RP" pages="92-106">RP 2012:92-106</venue>
+  <year>2012</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Mikolaj Bojanczyk</author>
+    <author>Laurent Braud</author>
+    <author>Bartek Klin</author>
+    <author>Slawomir Lasota</author>
+  </authors>
+  <title ee="http://doi.acm.org/10.1145/2103656.2103704">Towards nominal computation. </title>
+  <venue url="db/conf/popl/popl2012.html#BojanczykBKL12" conference="POPL" pages="401-412">POPL 2012:401-412</venue>
+  <year>2012</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Johann Brault-Baron</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.4230/LIPIcs.CSL.2012.137">A Negative Conjunctive Query is Easy if and only if it is Beta-Acyclic. </title>
+  <venue url="db/conf/csl/csl2012.html#Brault-Baron12" conference="CSL" pages="137-151">CSL 2012:137-151</venue>
+  <year>2012</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Peter E. Bulychev</author>
+    <author>Franck Cassez</author>
+    <author>Alexandre David</author>
+    <author>Kim Guldstrand Larsen</author>
+    <author>Jean-François Raskin</author>
+    <author>Pierre-Alain Reynier</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-642-33386-6_19">Controllers with Minimal Observation Power (Application to Timed Systems). </title>
+  <venue url="db/conf/atva/atva2012.html#BulychevCDLRR12" conference="ATVA" pages="223-237">ATVA 2012:223-237</venue>
+  <year>2012</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Peter E. Bulychev</author>
+    <author>Franck Cassez</author>
+    <author>Alexandre David</author>
+    <author>Kim G. Larsen</author>
+    <author>Jean-François Raskin</author>
+    <author>Pierre-Alain Reynier</author>
+  </authors>
+  <title ee="http://arxiv.org/abs/1207.1276">Controllers with Minimal Observation Power (Application to Timed Systems) </title>
+  <venue url="db/journals/corr/corr1207.html#abs-1207-1276" journal="CoRR" volume="abs/1207.1276">CoRR abs/1207.1276 (2012)</venue>
+  <year>2012</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Mathieu Caralp</author>
+    <author>Pierre-Alain Reynier</author>
+    <author>Jean-Marc Talbot</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-642-31653-1_21">Visibly Pushdown Automata with Multiplicities: Finiteness and K-Boundedness. </title>
+  <venue url="db/conf/dlt/dlt2012.html#CaralpRT12" conference="Developments in Language Theory" pages="226-238">Developments in Language Theory 2012:226-238</venue>
+  <year>2012</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Nathanaël Fijalkow</author>
+    <author>Hugo Gimbert</author>
+    <author>Youssouf Oualhadj</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1109/LICS.2012.40">Deciding the Value 1 Problem for Probabilistic Leaktight Automata. </title>
+  <venue url="db/conf/lics/lics2012.html#FijalkowGO12" conference="LICS" pages="295-304">LICS 2012:295-304</venue>
+  <year>2012</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Séverine Fratani</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1016/j.tcs.2011.10.020">Regular sets over extended tree structures. </title>
+  <venue url="db/journals/tcs/tcs418.html#Fratani12" journal="Theor. Comput. Sci. (TCS)" pages="48-70" volume="418">Theor. Comput. Sci. (TCS) 418:48-70 (2012)</venue>
+  <year>2012</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Przemyslaw Gawronski</author>
+    <author>Krzysztof Malarz</author>
+    <author>M. J. Krawczyk</author>
+    <author>Janusz Malinowski</author>
+    <author>Arkadiusz Kupczak</author>
+    <author>Wieslawa Sikora</author>
+    <author>Krzysztof Kulakowski</author>
+    <author>Jaroslaw Was</author>
+    <author>Jan W. Kantelhardt</author>
+  </authors>
+  <title ee="http://arxiv.org/abs/1209.6547">Strategies in crowd and crowd structure </title>
+  <venue url="db/journals/corr/corr1209.html#abs-1209-6547" journal="CoRR" volume="abs/1209.6547">CoRR abs/1209.6547 (2012)</venue>
+  <year>2012</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Etienne Grandjean</author>
+    <author>Frédéric Olive</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.4230/LIPIcs.CSL.2012.274">Descriptive complexity for pictures languages. </title>
+  <venue url="db/conf/csl/csl2012.html#GrandjeanO12" conference="CSL" pages="274-288">CSL 2012:274-288</venue>
+  <year>2012</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Etienne Grandjean</author>
+    <author>Frédéric Olive</author>
+    <author>Gaétan Richard</author>
+  </authors>
+  <title ee="http://arxiv.org/abs/1201.5853">Descriptive complexity for pictures languages (extended abstract) </title>
+  <venue url="db/journals/corr/corr1201.html#abs-1201-5853" journal="CoRR" volume="abs/1201.5853">CoRR abs/1201.5853 (2012)</venue>
+  <year>2012</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Janusz Malinowski</author>
+  </authors>
+  <title>Algorithmes pour la Synthèse et le Model Checking. </title>
+  <venue>Aix-Marseille Université, le 10 décembre 2012</venue>
+  <year>2012</year>
+  <type>phdthesis</type>
+</info>
+<info>
+  <authors>
+    <author>Stéphane Martin</author>
+    <author>Mehdi Ahmed-Nacer</author>
+    <author>Pascal Urso</author>
+  </authors>
+  <title ee="http://arxiv.org/abs/1201.1784">Abstract unordered and ordered trees CRDT </title>
+  <venue url="db/journals/corr/corr1201.html#abs-1201-1784" journal="CoRR" volume="abs/1201.1784">CoRR abs/1201.1784 (2012)</venue>
+  <year>2012</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Stéphane Martin</author>
+    <author>Mehdi Ahmed-Nacer</author>
+    <author>Pascal Urso</author>
+  </authors>
+  <title ee="http://arxiv.org/abs/1212.2338">Controlled conflict resolution for replicated document </title>
+  <venue url="db/journals/corr/corr1212.html#abs-1212-2338" journal="CoRR" volume="abs/1212.2338">CoRR abs/1212.2338 (2012)</venue>
+  <year>2012</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Stéphane Martin</author>
+    <author>Mehdi Ahmed-Nacer</author>
+    <author>Pascal Urso</author>
+  </authors>
+  <title ee="http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=6450938">Controlled conflict resolution for replicated document. </title>
+  <venue url="db/conf/colcom/colcom2012.html#MartinAU12" conference="CollaborateCom" pages="471-480">CollaborateCom 2012:471-480</venue>
+  <year>2012</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Florent Avellaneda</author>
+    <author>Rémi Morin</author>
+  </authors>
+  <title ee="http://doi.ieeecomputersociety.org/10.1109/ACSD.2011.31">Checking Non-divergence, Channel-Bound and Global Cooperation Using SAT-Solvers. </title>
+  <venue url="db/conf/acsd/acsd2011.html#AvellanedaM11" conference="ACSD" pages="19-28">ACSD 2011:19-28</venue>
+  <year>2011</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Nicolas Baudru</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1016/j.tcs.2011.03.030">Compositional synthesis of asynchronous automata. </title>
+  <venue url="db/journals/tcs/tcs412.html#Baudru11" journal="Theor. Comput. Sci. (TCS)" pages="3701-3716" number="29" volume="412">Theor. Comput. Sci. (TCS) 412(29):3701-3716 (2011)</venue>
+  <year>2011</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Nadia Creignou</author>
+    <author>Frédéric Olive</author>
+    <author>Johannes Schmidt 0001</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-642-21581-0_11">Enumerating All Solutions of a Boolean CSP by Non-decreasing Weight. </title>
+  <venue url="db/conf/sat/sat2011.html#CreignouOS11" conference="SAT" pages="120-133">SAT 2011:120-133</venue>
+  <year>2011</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Julien Ferté</author>
+    <author>Vincent Pilaud</author>
+    <author>Michel Pocchiola</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/s00454-010-9298-4">On the Number of Simple Arrangements of Five Double Pseudolines. </title>
+  <venue url="db/journals/dcg/dcg45.html#FertePP11" journal="Discrete &amp; Computational Geometry (DCG)" pages="279-302" number="2" volume="45">Discrete &amp; Computational Geometry (DCG) 45(2):279-302 (2011)</venue>
+  <year>2011</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Nathanaël Fijalkow</author>
+    <author>Hugo Gimbert</author>
+    <author>Youssouf Oualhadj</author>
+  </authors>
+  <title ee="http://arxiv.org/abs/1104.3055">A Class of Probabilistic Automata with a Decidable Value 1 Problem </title>
+  <venue url="db/journals/corr/corr1104.html#abs-1104-3055" journal="CoRR" volume="abs/1104.3055">CoRR abs/1104.3055 (2011)</venue>
+  <year>2011</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Nathanaël Fijalkow</author>
+    <author>Hugo Gimbert</author>
+    <author>Youssouf Oualhadj</author>
+  </authors>
+  <title ee="http://arxiv.org/abs/1104.3054">Pushing undecidability of the isolation problem for probabilistic automata </title>
+  <venue url="db/journals/corr/corr1104.html#abs-1104-3054" journal="CoRR" volume="abs/1104.3054">CoRR abs/1104.3054 (2011)</venue>
+  <year>2011</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Emmanuel Filiot</author>
+    <author>Olivier Gauwin</author>
+    <author>Pierre-Alain Reynier</author>
+    <author>Frédéric Servais</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.4230/LIPIcs.FSTTCS.2011.312">Streamability of Nested Word Transductions. </title>
+  <venue url="db/conf/fsttcs/fsttcs2011.html#FiliotGRS11" conference="FSTTCS" pages="312-324">FSTTCS 2011:312-324</venue>
+  <year>2011</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Séverine Fratani</author>
+    <author>Jean-Marc Talbot</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-642-21461-5_10">An Accurate Type System for Information Flow in Presence of Arrays. </title>
+  <venue url="db/conf/forte/forte2011.html#FrataniT11" conference="FMOODS/FORTE" pages="153-167">FMOODS/FORTE 2011:153-167</venue>
+  <year>2011</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Rémi Jaubert</author>
+    <author>Pierre-Alain Reynier</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-642-19805-2_16">Quantitative Robustness Analysis of Flat Timed Automata. </title>
+  <venue url="db/conf/fossacs/fossacs2011.html#JaubertR11" conference="FOSSACS" pages="229-244">FOSSACS 2011:229-244</venue>
+  <year>2011</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Denis Lugiez</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1142/S0129054111008453">Forward Analysis of Dynamic Network of Pushdown Systems is Easier without Order. </title>
+  <venue url="db/journals/ijfcs/ijfcs22.html#Lugiez11" journal="Int. J. Found. Comput. Sci. (IJFCS)" pages="843-862" number="4" volume="22">Int. J. Found. Comput. Sci. (IJFCS) 22(4):843-862 (2011)</venue>
+  <year>2011</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Janusz Malinowski</author>
+    <author>Peter Niebert</author>
+    <author>Pierre-Alain Reynier</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-642-24372-1_15">A Hierarchical Approach for the Synthesis of Stabilizing Controllers for Hybrid Systems. </title>
+  <venue url="db/conf/atva/atva2011.html#MalinowskiNR11" conference="ATVA" pages="198-212">ATVA 2011:198-212</venue>
+  <year>2011</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Stéphane Martin</author>
+  </authors>
+  <title>Édition collaborative des documents semi-structurés. </title>
+  <venue>Université de Provence, le 8 septembre 2011</venue>
+  <year>2011</year>
+  <type>phdthesis</type>
+</info>
+<info>
+  <authors>
+    <author>Rémi Morin</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-642-20712-9_25">Shared-Memory Systems and Charts. </title>
+  <venue url="db/conf/csr/csr2011.html#Morin11" conference="CSR" pages="317-330">CSR 2011:317-330</venue>
+  <year>2011</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Pierre-Alain Reynier</author>
+    <author>Frédéric Servais</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-642-21834-7_5">Minimal Coverability Set for Petri Nets: Karp and Miller Algorithm with Pruning. </title>
+  <venue url="db/conf/apn/pn2011.html#ReynierS11" conference="Petri Nets" pages="69-88">Petri Nets 2011:69-88</venue>
+  <year>2011</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Wieslawa Sikora</author>
+    <author>Janusz Malinowski</author>
+    <author>Arkadiusz Kupczak</author>
+  </authors>
+  <title ee="http://arxiv.org/abs/1108.3702">Model of skyscraper evacuation with the use of space symmetry and fluid dynamic approximation </title>
+  <venue url="db/journals/corr/corr1108.html#abs-1108-3702" journal="CoRR" volume="abs/1108.3702">CoRR abs/1108.3702 (2011)</venue>
+  <year>2011</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Wieslawa Sikora</author>
+    <author>Janusz Malinowski</author>
+  </authors>
+  <title ee="http://arxiv.org/abs/1102.1261">Symmetry in behavior of complex social systems - discussion of models of crowd evacuation organized in agreement with symmetry conditions </title>
+  <venue url="db/journals/corr/corr1102.html#abs-1102-1261" journal="CoRR" volume="abs/1102.1261">CoRR abs/1102.1261 (2011)</venue>
+  <year>2011</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Wieslawa Sikora</author>
+    <author>Janusz Malinowski</author>
+    <author>Arkadiusz Kupczak</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-642-31500-8_59">Model of Skyscraper Evacuation with the Use of Space Symmetry and Fluid Dynamic Approximation. </title>
+  <venue url="db/conf/ppam/ppam2011-2.html#SikoraMK11" conference="PPAM" pages="570-577">PPAM 2011:570-577</venue>
+  <year>2011</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Paolo Baldan</author>
+    <author>Clara Bertolissi</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-642-28412-0_4">Sharing in the Graph Rewriting Calculus. </title>
+  <venue url="db/conf/wadt/wadt2010.html#BaldanB10" conference="WADT" pages="27-41">WADT 2010:27-41</venue>
+  <year>2010</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Walid Belkhir</author>
+    <author>Luigi Santocanale</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1016/j.apal.2009.07.015">The variable hierarchy for the games µ-calculus. </title>
+  <venue url="db/journals/apal/apal161.html#BelkhirS10" journal="Ann. Pure Appl. Logic (APAL)" pages="690-707" number="5" volume="161">Ann. Pure Appl. Logic (APAL) 161(5):690-707 (2010)</venue>
+  <year>2010</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Clara Bertolissi</author>
+    <author>Maribel Fernández</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-642-11747-3_11">Category-Based Authorisation Models: Operational Semantics and Expressive Power. </title>
+  <venue url="db/conf/essos/essos2010.html#BertolissiF10" conference="ESSoS" pages="140-156">ESSoS 2010:140-156</venue>
+  <year>2010</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Clara Bertolissi</author>
+    <author>Maribel Fernández</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-642-22444-7_4">Rewrite Specifications of Access Control Policies in Distributed Environments. </title>
+  <venue url="db/conf/stm/stm2010.html#BertolissiF10" conference="STM" pages="51-67">STM 2010:51-67</venue>
+  <year>2010</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Laurent Braud</author>
+    <author>Arnaud Carayol</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-642-14162-1_8">Linear Orders in the Pushdown Hierarchy. </title>
+  <venue url="db/conf/icalp/icalp2010-2.html#BraudC10" conference="ICALP" pages="88-99">ICALP 2010:88-99</venue>
+  <year>2010</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Luc Dartois</author>
+    <author>Manfred Kufleitner</author>
+    <author>Alexander Lauser</author>
+  </authors>
+  <title ee="http://arxiv.org/abs/1005.0505">Rankers over Infinite Words </title>
+  <venue url="db/journals/corr/corr1005.html#abs-1005-0505" journal="CoRR" volume="abs/1005.0505">CoRR abs/1005.0505 (2010)</venue>
+  <year>2010</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Luc Dartois</author>
+    <author>Manfred Kufleitner</author>
+    <author>Alexander Lauser</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-642-14455-4_15">Rankers over Infinite Words - (Extended Abstract). </title>
+  <venue url="db/conf/dlt/dlt2010.html#DartoisKL10" conference="Developments in Language Theory" pages="148-159">Developments in Language Theory 2010:148-159</venue>
+  <year>2010</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Stéphane Demri</author>
+    <author>Denis Lugiez</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1016/j.jal.2010.03.001">Complexity of modal logics with Presburger constraints. </title>
+  <venue url="db/journals/japll/japll8.html#DemriL10" journal="J. Applied Logic (JAPLL)" pages="233-252" number="3" volume="8">J. Applied Logic (JAPLL) 8(3):233-252 (2010)</venue>
+  <year>2010</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Julien Ferté</author>
+    <author>Vincent Pilaud</author>
+    <author>Michel Pocchiola</author>
+  </authors>
+  <title ee="http://arxiv.org/abs/1009.1575">On the number of simple arrangements of five double pseudolines </title>
+  <venue url="db/journals/corr/corr1009.html#abs-1009-1575" journal="CoRR" volume="abs/1009.1575">CoRR abs/1009.1575 (2010)</venue>
+  <year>2010</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Emmanuel Filiot</author>
+    <author>Jean-François Raskin</author>
+    <author>Pierre-Alain Reynier</author>
+    <author>Frédéric Servais</author>
+    <author>Jean-Marc Talbot</author>
+  </authors>
+  <title ee="http://arxiv.org/abs/1002.1443">On Functionality of Visibly Pushdown Transducers </title>
+  <venue url="db/journals/corr/corr1002.html#abs-1002-1443" journal="CoRR" volume="abs/1002.1443">CoRR abs/1002.1443 (2010)</venue>
+  <year>2010</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Emmanuel Filiot</author>
+    <author>Jean-François Raskin</author>
+    <author>Pierre-Alain Reynier</author>
+    <author>Frédéric Servais</author>
+    <author>Jean-Marc Talbot</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-642-15155-2_32">Properties of Visibly Pushdown Transducers. </title>
+  <venue url="db/conf/mfcs/mfcs2010.html#FiliotRRST10" conference="MFCS" pages="355-367">MFCS 2010:355-367</venue>
+  <year>2010</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Emmanuel Filiot</author>
+    <author>Jean-Marc Talbot</author>
+    <author>Sophie Tison</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1142/S012905411000743X">Tree Automata with Global Constraints. </title>
+  <venue url="db/journals/ijfcs/ijfcs21.html#FiliotTT10" journal="Int. J. Found. Comput. Sci. (IJFCS)" pages="571-596" number="4" volume="21">Int. J. Found. Comput. Sci. (IJFCS) 21(4):571-596 (2010)</venue>
+  <year>2010</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Hugo Gimbert</author>
+    <author>Youssouf Oualhadj</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-642-14162-1_44">Probabilistic Automata on Finite Words: Decidable and Undecidable Problems. </title>
+  <venue url="db/conf/icalp/icalp2010-2.html#GimbertO10" conference="ICALP" pages="527-538">ICALP 2010:527-538</venue>
+  <year>2010</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Janusz Malinowski</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1109/TR.2009.2036712">A New Efficient Algorithm for Generating All Minimal Tie-Sets Connecting Selected Nodes in a Mesh-Structured Network. </title>
+  <venue url="db/journals/tr/tr59.html#Malinowski10" journal="IEEE Transactions on Reliability (TR)" pages="203-211" number="1" volume="59">IEEE Transactions on Reliability (TR) 59(1):203-211 (2010)</venue>
+  <year>2010</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Janusz Malinowski</author>
+    <author>Peter Niebert</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-642-12002-2_34">SAT Based Bounded Model Checking with Partial Order Semantics for Timed Automata. </title>
+  <venue url="db/conf/tacas/tacas2010.html#MalinowskiN10" conference="TACAS" pages="405-419">TACAS 2010:405-419</venue>
+  <year>2010</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Stéphane Martin</author>
+    <author>Denis Lugiez</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-642-16066-0_3">Fixing Collaborative Edition on Typed Documents. </title>
+  <venue url="db/conf/cdve/cdve2010.html#MartinL10" conference="CDVE" pages="19-26">CDVE 2010:19-26</venue>
+  <year>2010</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Stéphane Martin</author>
+    <author>Pascal Urso</author>
+    <author>Stéphane Weiss</author>
+  </authors>
+  <title ee="http://arxiv.org/abs/1010.3615">Scalable XML Collaborative Editing with Undo short paper </title>
+  <venue url="db/journals/corr/corr1010.html#abs-1010-3615" journal="CoRR" volume="abs/1010.3615">CoRR abs/1010.3615 (2010)</venue>
+  <year>2010</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Stéphane Martin</author>
+    <author>Pascal Urso</author>
+    <author>Stéphane Weiss</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-642-16934-2_37">Scalable XML Collaborative Editing with Undo - (Short Paper). </title>
+  <venue url="db/conf/otm/otm2010-1.html#MartinUW10" conference="OTM Conferences" pages="507-514">OTM Conferences 2010:507-514</venue>
+  <year>2010</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Rémi Morin</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1142/S0129054110007489">Unambiguous Shared-Memory Systems. </title>
+  <venue url="db/journals/ijfcs/ijfcs21.html#Morin10" journal="Int. J. Found. Comput. Sci. (IJFCS)" pages="665-685" number="4" volume="21">Int. J. Found. Comput. Sci. (IJFCS) 21(4):665-685 (2010)</venue>
+  <year>2010</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Luigi Santocanale</author>
+    <author>Yde Venema</author>
+  </authors>
+  <title ee="http://www.aiml.net/volumes/volume8/Santocanale-Venema.pdf">Uniform Interpolation for Monotone Modal Logic. </title>
+  <venue url="db/conf/aiml/aiml2010.html#SantocanaleV10" conference="Advances in Modal Logic" pages="350-370">Advances in Modal Logic 2010:350-370</venue>
+  <year>2010</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Luigi Santocanale</author>
+    <author>Yde Venema</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1016/j.apal.2010.07.003">Completeness for flat modal fixpoint logics. </title>
+  <venue url="db/journals/apal/apal162.html#SantocanaleV10" journal="Ann. Pure Appl. Logic (APAL)" pages="55-82" number="1" volume="162">Ann. Pure Appl. Logic (APAL) 162(1):55-82 (2010)</venue>
+  <year>2010</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Luigi Santocanale</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1016/j.ic.2009.05.006">A nice labelling for tree-like event structures of degree 3. </title>
+  <venue url="db/journals/iandc/iandc208.html#Santocanale10" journal="Inf. Comput. (IANDC)" pages="652-665" number="6" volume="208">Inf. Comput. (IANDC) 208(6):652-665 (2010)</venue>
+  <year>2010</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Wieslawa Sikora</author>
+    <author>Janusz Malinowski</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-642-13541-5_24">Symmetry Approach to Evacuation Scenarios. </title>
+  <venue url="db/conf/kesamsta/kesamsta2010-2.html#SikoraM10" conference="KES-AMSTA" pages="229-241">KES-AMSTA 2010:229-241</venue>
+  <year>2010</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Steve Barker</author>
+    <author>Clara Bertolissi</author>
+    <author>Maribel Fernández</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1016/j.entcs.2009.02.070">Action Control by Term Rewriting. </title>
+  <venue url="db/journals/entcs/entcs234.html#BarkerBF09" journal="Electr. Notes Theor. Comput. Sci. (ENTCS)" pages="19-36" volume="234">Electr. Notes Theor. Comput. Sci. (ENTCS) 234:19-36 (2009)</venue>
+  <year>2009</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Nicolas Baudru</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-642-04081-8_9">Distributed Asynchronous Automata. </title>
+  <venue url="db/conf/concur/concur2009.html#Baudru09" conference="CONCUR" pages="115-130">CONCUR 2009:115-130</venue>
+  <year>2009</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Patricia Bouyer</author>
+    <author>Serge Haddad</author>
+    <author>Pierre-Alain Reynier</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.3233/FI-2009-0063">Undecidability Results for Timed Automata with Silent Transitions. </title>
+  <venue url="db/journals/fuin/fuin92.html#BouyerHR09" journal="Fundam. Inform. (FUIN)" pages="1-25" number="1-2" volume="92">Fundam. Inform. (FUIN) 92(1-2):1-25 (2009)</venue>
+  <year>2009</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Laurent Braud</author>
+  </authors>
+  <title ee="http://arxiv.org/abs/0911.4792">Covering of ordinals </title>
+  <venue url="db/journals/corr/corr0911.html#abs-0911-4792" journal="CoRR" volume="abs/0911.4792">CoRR abs/0911.4792 (2009)</venue>
+  <year>2009</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Laurent Braud</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.4230/LIPIcs.FSTTCS.2009.2310">Covering of ordinals. </title>
+  <venue url="db/conf/fsttcs/fsttcs2009.html#Braud09" conference="FSTTCS" pages="97-108">FSTTCS 2009:97-108</venue>
+  <year>2009</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Franck Cassez</author>
+    <author>Jan Jakob Jessen</author>
+    <author>Kim Guldstrand Larsen</author>
+    <author>Jean-François Raskin</author>
+    <author>Pierre-Alain Reynier</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-642-00602-9_7">Automatic Synthesis of Robust and Optimal Controllers - An Industrial Case Study. </title>
+  <venue url="db/conf/hybrid/hscc2009.html#CassezJLRR09" conference="HSCC" pages="90-104">HSCC 2009:90-104</venue>
+  <year>2009</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>J. Robin B. Cockett</author>
+    <author>Luigi Santocanale</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-642-04027-6_16">On the Word Problem for SP{Sigma Pi}-Categories, and the Properties of Two-Way Communication. </title>
+  <venue url="db/conf/csl/csl2009.html#CockettS09" conference="CSL" pages="194-208">CSL 2009:194-208</venue>
+  <year>2009</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Jean Fanchon</author>
+    <author>Rémi Morin</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-642-02424-5_7">Pomset Languages of Finite Step Transition Systems. </title>
+  <venue url="db/conf/apn/pn2009.html#FanchonM09" conference="Petri Nets" pages="83-102">Petri Nets 2009:83-102</venue>
+  <year>2009</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Dorina Ghindici</author>
+    <author>Isabelle Simplot-Ryl</author>
+    <author>Jean-Marc Talbot</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-642-11623-0_21">A Sound Analysis for Secure Information Flow Using Abstract Memory Graphs. </title>
+  <venue url="db/conf/fsen/fsen2009.html#GhindiciST09" conference="FSEN" pages="355-370">FSEN 2009:355-370</venue>
+  <year>2009</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Françoise Gire</author>
+    <author>Jean-Marc Talbot</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1051/ita/2009006">Nested Sibling Tree Automata. </title>
+  <venue url="db/journals/ita/ita43.html#GireT09" journal="ITA" pages="379-402" number="2" volume="43">ITA 43(2):379-402 (2009)</venue>
+  <year>2009</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Denis Lugiez</author>
+    <author>Stéphane Martin</author>
+  </authors>
+  <title ee="http://arxiv.org/abs/0901.4201">Peer to Peer Optimistic Collaborative Editing on XML-like trees </title>
+  <venue url="db/journals/corr/corr0901.html#abs-0901-4201" journal="CoRR" volume="abs/0901.4201">CoRR abs/0901.4201 (2009)</venue>
+  <year>2009</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Denis Lugiez</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-642-04420-5_13">Forward Analysis of Dynamic Network of Pushdown Systems Is Easier without Order. </title>
+  <venue url="db/conf/rp/rp2009.html#Lugiez09" conference="RP" pages="127-140">RP 2009:127-140</venue>
+  <year>2009</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Stéphane Martin</author>
+    <author>Denis Lugiez</author>
+  </authors>
+  <title ee="http://arxiv.org/abs/0911.0838">Research report : Collaborative Peer 2 Peer Edition: Avoiding Conflicts is Better than Solving Conflicts </title>
+  <venue url="db/journals/corr/corr0911.html#abs-0911-0838" journal="CoRR" volume="abs/0911.0838">CoRR abs/0911.0838 (2009)</venue>
+  <year>2009</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Stéphane Martin</author>
+    <author>Denis Lugiez</author>
+  </authors>
+  <title ee="">Collaborative peer to peer edition: Avoiding conflicts is better than solving conflicts. </title>
+  <venue url="db/conf/iadis/ac2009-2.html#MartinL09" conference="IADIS AC" pages="124-128">IADIS AC 2009:124-128</venue>
+  <year>2009</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Pierre-Alain Reynier</author>
+    <author>Arnaud Sangnier</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-642-04081-8_37">Weak Time Petri Nets Strike Back!. </title>
+  <venue url="db/conf/concur/concur2009.html#ReynierS09" conference="CONCUR" pages="557-571">CONCUR 2009:557-571</venue>
+  <year>2009</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Luigi Santocanale</author>
+  </authors>
+  <title ee="http://arxiv.org/abs/0903.3462">A Nice Labelling for Tree-Like Event Structures of Degree 3 (Extended Version) </title>
+  <venue url="db/journals/corr/corr0903.html#abs-0903-3462" journal="CoRR" volume="abs/0903.3462">CoRR abs/0903.3462 (2009)</venue>
+  <year>2009</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Luigi Santocanale</author>
+    <author>J. Robin B. Cockett</author>
+  </authors>
+  <title ee="http://arxiv.org/abs/0904.1529">On the word problem for SP-categories, and the properties of two-way communication </title>
+  <venue url="db/journals/corr/corr0904.html#abs-0904-1529" journal="CoRR" volume="abs/0904.1529">CoRR abs/0904.1529 (2009)</venue>
+  <year>2009</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Luigi Santocanale</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1016/j.entcs.2009.02.023">Topological Properties of Event Structures. </title>
+  <venue url="db/journals/entcs/entcs230.html#Santocanale09" journal="Electr. Notes Theor. Comput. Sci. (ENTCS)" pages="149-160" volume="230">Electr. Notes Theor. Comput. Sci. (ENTCS) 230:149-160 (2009)</venue>
+  <year>2009</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Guillaume Bagan</author>
+    <author>Arnaud Durand</author>
+    <author>Etienne Grandjean</author>
+    <author>Frédéric Olive</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1051/ita:2007046">Computing the jth solution of a first-order query. </title>
+  <venue url="db/journals/ita/ita42.html#BaganDGO08" journal="ITA" pages="147-164" number="1" volume="42">ITA 42(1):147-164 (2008)</venue>
+  <year>2008</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Paolo Baldan</author>
+    <author>Clara Bertolissi</author>
+    <author>Horatiu Cirstea</author>
+    <author>Claude Kirchner</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1016/j.entcs.2008.03.057">Towards a Sharing Strategy for the Graph Rewriting Calculus. </title>
+  <venue url="db/journals/entcs/entcs204.html#BaldanBCK08" journal="Electr. Notes Theor. Comput. Sci. (ENTCS)" pages="111-127" volume="204">Electr. Notes Theor. Comput. Sci. (ENTCS) 204:111-127 (2008)</venue>
+  <year>2008</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Walid Belkhir</author>
+    <author>Luigi Santocanale</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-540-89439-1_42">The Variable Hierarchy for the Lattice µ-Calculus. </title>
+  <venue url="db/conf/lpar/lpar2008.html#BelkhirS08" conference="LPAR" pages="605-620">LPAR 2008:605-620</venue>
+  <year>2008</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Clara Bertolissi</author>
+    <author>Maribel Fernández</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1109/CRISIS.2008.4757458">An algebraic-functional framework for distributed access control. </title>
+  <venue url="db/conf/crisis/crisis2008.html#BertolissiF08" conference="CRiSIS" pages="1-8">CRiSIS 2008:1-8</venue>
+  <year>2008</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Clara Bertolissi</author>
+    <author>Maribel Fernández</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1109/NTMS.2008.ECP.98">Time and Location Based Services with Access Control. </title>
+  <venue url="db/conf/ntms/ntms2008.html#BertolissiF08" conference="NTMS" pages="1-6">NTMS 2008:1-6</venue>
+  <year>2008</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Clara Bertolissi</author>
+    <author>Maribel Fernández</author>
+  </authors>
+  <title ee="http://doi.acm.org/10.1145/1389449.1389476">A rewriting framework for the composition of access control policies. </title>
+  <venue url="db/conf/ppdp/ppdp2008.html#BertolissiF08" conference="PPDP" pages="217-225">PPDP 2008:217-225</venue>
+  <year>2008</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Patricia Bouyer</author>
+    <author>Nicolas Markey</author>
+    <author>Pierre-Alain Reynier</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-540-78499-9_12">Robust Analysis of Timed Automata via Channel Machines. </title>
+  <venue url="db/conf/fossacs/fossacs2008.html#BouyerMR08" conference="FOSSACS" pages="157-171">FoSSaCS 2008:157-171</venue>
+  <year>2008</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Patricia Bouyer</author>
+    <author>Serge Haddad</author>
+    <author>Pierre-Alain Reynier</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1016/j.ic.2007.10.004">Timed Petri nets and timed automata: On the discriminating power of zeno sequences. </title>
+  <venue url="db/journals/iandc/iandc206.html#BouyerHR08" journal="Inf. Comput. (IANDC)" pages="73-107" number="1" volume="206">Inf. Comput. (IANDC) 206(1):73-107 (2008)</venue>
+  <year>2008</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Stéphanie Delaune</author>
+    <author>Pascal Lafourcade</author>
+    <author>Denis Lugiez</author>
+    <author>Ralf Treinen</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1016/j.ic.2007.07.005">Symbolic protocol analysis for monoidal equational theories. </title>
+  <venue url="db/journals/iandc/iandc206.html#DelauneLLT08" journal="Inf. Comput. (IANDC)" pages="312-351" number="2-4" volume="206">Inf. Comput. (IANDC) 206(2-4):312-351 (2008)</venue>
+  <year>2008</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Emmanuel Filiot</author>
+    <author>Jean-Marc Talbot</author>
+    <author>Sophie Tison</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-540-85780-8_25">Tree Automata with Global Constraints. </title>
+  <venue url="db/conf/dlt/dlt2008.html#FiliotTT08" conference="Developments in Language Theory" pages="314-326">Developments in Language Theory 2008:314-326</venue>
+  <year>2008</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Rémi Morin</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-540-85361-9_7">Semantics of Deterministic Shared-Memory Systems. </title>
+  <venue url="db/conf/concur/concur2008.html#Morin08" conference="CONCUR" pages="36-51">CONCUR 2008:36-51</venue>
+  <year>2008</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Rémi Morin</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-540-85780-8_41">MSO Logic for Unambiguous Shared-Memory Systems. </title>
+  <venue url="db/conf/dlt/dlt2008.html#Morin08" conference="Developments in Language Theory" pages="516-528">Developments in Language Theory 2008:516-528</venue>
+  <year>2008</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Luigi Santocanale</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1016/j.apal.2007.11.001">Completions of µ-algebras. </title>
+  <venue url="db/journals/apal/apal154.html#Santocanale08" journal="Ann. Pure Appl. Logic (APAL)" pages="27-50" number="1" volume="154">Ann. Pure Appl. Logic (APAL) 154(1):27-50 (2008)</venue>
+  <year>2008</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Luigi Santocanale</author>
+    <author>Yde Venema</author>
+  </authors>
+  <title ee="http://arxiv.org/abs/0812.2390">Completeness for Flat Modal Fixpoint Logics </title>
+  <venue url="db/journals/corr/corr0812.html#abs-0812-2390" journal="CoRR" volume="abs/0812.2390">CoRR abs/0812.2390 (2008)</venue>
+  <year>2008</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Paolo Baldan</author>
+    <author>Clara Bertolissi</author>
+    <author>Horatiu Cirstea</author>
+    <author>Claude Kirchner</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1017/S0960129507006093">A rewriting calculus for cyclic higher-order term graphs. </title>
+  <venue url="db/journals/mscs/mscs17.html#BaldanBCK07" journal="Mathematical Structures in Computer Science (MSCS)" pages="363-406" number="3" volume="17">Mathematical Structures in Computer Science (MSCS) 17(3):363-406 (2007)</venue>
+  <year>2007</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Nicolas Baudru</author>
+    <author>Rémi Morin</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-540-77050-3_23">Synthesis of Safe Message-Passing Systems. </title>
+  <venue url="db/conf/fsttcs/fsttcs2007.html#BaudruM07" conference="FSTTCS" pages="277-289">FSTTCS 2007:277-289</venue>
+  <year>2007</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Walid Belkhir</author>
+    <author>Luigi Santocanale</author>
+  </authors>
+  <title ee="http://arxiv.org/abs/0710.2419">The Variable Hierarchy for the Games mu-Calculus </title>
+  <venue url="db/journals/corr/corr0710.html#abs-0710-2419" journal="CoRR" volume="abs/0710.2419">CoRR abs/0710.2419 (2007)</venue>
+  <year>2007</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Walid Belkhir</author>
+    <author>Luigi Santocanale</author>
+  </authors>
+  <title ee="http://arxiv.org/abs/0705.0419">Undirected Graphs of Entanglement Two </title>
+  <venue url="db/journals/corr/corr0705.html#abs-0705-0419" journal="CoRR" volume="abs/0705.0419">CoRR abs/0705.0419 (2007)</venue>
+  <year>2007</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Walid Belkhir</author>
+    <author>Luigi Santocanale</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-540-77050-3_42">Undirected Graphs of Entanglement 2. </title>
+  <venue url="db/conf/fsttcs/fsttcs2007.html#BelkhirS07" conference="FSTTCS" pages="508-519">FSTTCS 2007:508-519</venue>
+  <year>2007</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Jean-Claude Bermond</author>
+    <author>Laurent Braud</author>
+    <author>David Coudert</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1016/j.tcs.2007.04.028">Traffic grooming on the path. </title>
+  <venue url="db/journals/tcs/tcs384.html#BermondBC07" journal="Theor. Comput. Sci. (TCS)" pages="139-151" number="2-3" volume="384">Theor. Comput. Sci. (TCS) 384(2-3):139-151 (2007)</venue>
+  <year>2007</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Clara Bertolissi</author>
+    <author>Maribel Fernández</author>
+    <author>Steve Barker</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-540-73538-0_15">Dynamic Event-Based Access Control as Term Rewriting. </title>
+  <venue url="db/conf/dbsec/dbsec2007.html#BertolissiFB07" conference="DBSec" pages="195-210">DBSec 2007:195-210</venue>
+  <year>2007</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Clara Bertolissi</author>
+    <author>Claude Kirchner</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-540-71389-0_7">The Rewriting Calculus as a Combinatory Reduction System. </title>
+  <venue url="db/conf/fossacs/fossacs2007.html#BertolissiK07" conference="FOSSACS" pages="78-92">FoSSaCS 2007:78-92</venue>
+  <year>2007</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Ahmed Bouajjani</author>
+    <author>Séverine Fratani</author>
+    <author>Shaz Qadeer</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-540-73368-3_24">Context-Bounded Analysis of Multithreaded Programs with Dynamic Linked Structures. </title>
+  <venue url="db/conf/cav/cav2007.html#BouajjaniFQ07" conference="CAV" pages="207-220">CAV 2007:207-220</venue>
+  <year>2007</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Yannick Chevalier</author>
+    <author>Denis Lugiez</author>
+    <author>Michaël Rusinowitch</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-540-74621-8_9">Towards an Automatic Analysis of Web Service Security. </title>
+  <venue url="db/conf/frocos/frocos2007.html#ChevalierLR07" conference="FroCoS" pages="133-147">FroCoS 2007:133-147</venue>
+  <year>2007</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Yannick Chevalier</author>
+    <author>Denis Lugiez</author>
+    <author>Michaël Rusinowitch</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-540-75560-9_15">Verifying Cryptographic Protocols with Subterms Constraints. </title>
+  <venue url="db/conf/lpar/lpar2007.html#ChevalierLR07" conference="LPAR" pages="181-195">LPAR 2007:181-195</venue>
+  <year>2007</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Emmanuel Filiot</author>
+    <author>Jean-Marc Talbot</author>
+    <author>Sophie Tison</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-540-74915-8_13">Satisfiability of a Spatial Logic with Tree Variables. </title>
+  <venue url="db/conf/csl/csl2007.html#FiliotTT07" conference="CSL" pages="130-145">CSL 2007:130-145</venue>
+  <year>2007</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Emmanuel Filiot</author>
+    <author>Joachim Niehren</author>
+    <author>Jean-Marc Talbot</author>
+    <author>Sophie Tison</author>
+  </authors>
+  <title ee="http://doi.acm.org/10.1145/1265530.1265559">Polynomial time fragments of XPath with variables. </title>
+  <venue url="db/conf/pods/pods2007.html#FiliotNTT07" conference="PODS" pages="205-214">PODS 2007:205-214</venue>
+  <year>2007</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Pascal Lafourcade</author>
+    <author>Denis Lugiez</author>
+    <author>Ralf Treinen</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1016/j.ic.2006.10.008">Intruder deduction for the equational theory of Abelian groups with distributive encryption. </title>
+  <venue url="db/journals/iandc/iandc205.html#LafourcadeLT07" journal="Inf. Comput. (IANDC)" pages="581-623" number="4" volume="205">Inf. Comput. (IANDC) 205(4):581-623 (2007)</venue>
+  <year>2007</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Luigi Santocanale</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-540-74407-8_11">A Nice Labelling for Tree-Like Event Structures of Degree 3. </title>
+  <venue url="db/conf/concur/concur2007.html#Santocanale07" conference="CONCUR" pages="151-165">CONCUR 2007:151-165</venue>
+  <year>2007</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Luigi Santocanale</author>
+  </authors>
+  <title ee="http://arxiv.org/abs/0704.2355">A Nice Labelling for Tree-Like Event Structures of Degree 3 </title>
+  <venue url="db/journals/corr/corr0704.html#abs-0704-2355" journal="CoRR" volume="abs/0704.2355">CoRR abs/0704.2355 (2007)</venue>
+  <year>2007</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Luigi Santocanale</author>
+    <author>Yde Venema</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-540-75560-9_36">Completeness for Flat Modal Fixpoint Logics. </title>
+  <venue url="db/conf/lpar/lpar2007.html#SantocanaleV07" conference="LPAR" pages="499-513">LPAR 2007:499-513</venue>
+  <year>2007</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Luigi Santocanale</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/s11083-007-9066-0">On the Join Dependency Relation in Multinomial Lattices. </title>
+  <venue url="db/journals/order/order24.html#Santocanale07" journal="Order" pages="155-179" number="3" volume="24">Order 24(3):155-179 (2007)</venue>
+  <year>2007</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Nicolas Baudru</author>
+    <author>Rémi Morin</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/11753728_8">Unfolding Synthesis of Asynchronous Automata. </title>
+  <venue url="db/conf/csr/csr2006.html#BaudruM06" conference="CSR" pages="46-57">CSR 2006:46-57</venue>
+  <year>2006</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Nicolas Baudru</author>
+    <author>Rémi Morin</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/11767589_6">The Synthesis Problem of Netcharts. </title>
+  <venue url="db/conf/apn/icatpn2006.html#BaudruM06" conference="ICATPN" pages="84-104">ICATPN 2006:84-104</venue>
+  <year>2006</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Clara Bertolissi</author>
+    <author>Horatiu Cirstea</author>
+    <author>Claude Kirchner</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/s10990-006-0479-z">Expressing combinatory reduction systems derivations in the rewriting calculus. </title>
+  <venue url="db/journals/lisp/lisp19.html#BertolissiCK06" journal="Higher-Order and Symbolic Computation (LISP)" pages="345-376" number="4" volume="19">Higher-Order and Symbolic Computation (LISP) 19(4):345-376 (2006)</venue>
+  <year>2006</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Patricia Bouyer</author>
+    <author>Pierre-Alain Reynier</author>
+    <author>Serge Haddad</author>
+  </authors>
+  <title ee="http://doi.ieeecomputersociety.org/10.1109/ACSD.2006.6">Extended Timed Automata and Time Petri Nets. </title>
+  <venue url="db/conf/acsd/acsd2006.html#BouyerRH06" conference="ACSD" pages="91-100">ACSD 2006:91-100</venue>
+  <year>2006</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Patricia Bouyer</author>
+    <author>Serge Haddad</author>
+    <author>Pierre-Alain Reynier</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/11901914_23">Timed Unfoldings for Networks of Timed Automata. </title>
+  <venue url="db/conf/atva/atva2006.html#BouyerHR06" conference="ATVA" pages="292-306">ATVA 2006:292-306</venue>
+  <year>2006</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Patricia Bouyer</author>
+    <author>Serge Haddad</author>
+    <author>Pierre-Alain Reynier</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/11787006_36">Timed Petri Nets and Timed Automata: On the Discriminating Power of Zeno Sequences. </title>
+  <venue url="db/conf/icalp/icalp2006-2.html#BouyerHR06" conference="ICALP" pages="420-431">ICALP 2006:420-431</venue>
+  <year>2006</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Patricia Bouyer</author>
+    <author>Nicolas Markey</author>
+    <author>Pierre-Alain Reynier</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/11682462_25">Robust Model-Checking of Linear-Time Properties in Timed Automata. </title>
+  <venue url="db/conf/latin/latin2006.html#BouyerMR06" conference="LATIN" pages="238-249">LATIN 2006:238-249</venue>
+  <year>2006</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Laureline David</author>
+    <author>Stephane Martin</author>
+    <author>Corinne Cregut</author>
+    <author>Eric Balossier</author>
+    <author>Frederic Nyer</author>
+    <author>Fabrice Huret</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1109/ISQED.2006.105">Pre-Layout Inductive Corners for Advanced Digital Design Interconnect: Modeling and Silicon Validation. </title>
+  <venue url="db/conf/isqed/isqed2006.html#DavidMCBNH06" conference="ISQED" pages="703-708">ISQED 2006:703-708</venue>
+  <year>2006</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Stéphanie Delaune</author>
+    <author>Pascal Lafourcade</author>
+    <author>Denis Lugiez</author>
+    <author>Ralf Treinen</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/11787006_12">Symbolic Protocol Analysis in Presence of a Homomorphism Operator and &lt;i>Exclusive Or&lt;/i>. </title>
+  <venue url="db/conf/icalp/icalp2006-2.html#DelauneLLT06" conference="ICALP" pages="132-143">ICALP 2006:132-143</venue>
+  <year>2006</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Stéphane Demri</author>
+    <author>Denis Lugiez</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/11814771_44">Presburger Modal Logic Is PSPACE-Complete. </title>
+  <venue url="db/conf/cade/ijcar2006.html#DemriL06" conference="IJCAR" pages="541-556">IJCAR 2006:541-556</venue>
+  <year>2006</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Arnaud Durand</author>
+    <author>Frédéric Olive</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/11874683_22">First-Order Queries over One Unary Function. </title>
+  <venue url="db/conf/csl/csl2006.html#DurandO06" conference="CSL" pages="334-348">CSL 2006:334-348</venue>
+  <year>2006</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Emmanuel Filiot</author>
+    <author>Joachim Niehren</author>
+    <author>Jean-Marc Talbot</author>
+    <author>Sophie Tison</author>
+  </authors>
+  <title ee="">Composing Monadic Queries in Trees. </title>
+  <venue url="db/conf/planx/planX2006.html#FiliotNTT06" conference="PLAN-X" pages="61-70">PLAN-X 2006:61-70</venue>
+  <year>2006</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Nicolas Baudru</author>
+    <author>Rémi Morin</author>
+  </authors>
+  <title ee="http://arxiv.org/abs/cs/0506096">Polynomial Synthesis of Asynchronous Automata </title>
+  <venue url="db/journals/corr/corr0506.html#abs-cs-0506096" journal="CoRR" volume="abs/cs/0506096">CoRR abs/cs/0506096 (2005)</venue>
+  <year>2005</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Jean-Claude Bermond</author>
+    <author>Laurent Braud</author>
+    <author>David Coudert</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/11429647_5">Traffic Grooming on the Path. </title>
+  <venue url="db/conf/sirocco/sirocco2005.html#BermondBC05" conference="SIROCCO" pages="34-48">SIROCCO 2005:34-48</venue>
+  <year>2005</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Clara Bertolissi</author>
+    <author>Paolo Baldan</author>
+    <author>Horatiu Cirstea</author>
+    <author>Claude Kirchner</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1016/j.entcs.2005.01.034">A Rewriting Calculus for Cyclic Higher-order Term Graphs. </title>
+  <venue url="db/journals/entcs/entcs127.html#BertolissiBCK05" journal="Electr. Notes Theor. Comput. Sci. (ENTCS)" pages="21-41" number="5" volume="127">Electr. Notes Theor. Comput. Sci. (ENTCS) 127(5):21-41 (2005)</venue>
+  <year>2005</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Clara Bertolissi</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/11560586_10">The Graph Rewriting Calculus: Confluence and Expressiveness. </title>
+  <venue url="db/conf/ictcs/ictcs2005.html#Bertolissi05" conference="ICTCS" pages="113-127">ICTCS 2005:113-127</venue>
+  <year>2005</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Iovka Boneva</author>
+    <author>Jean-Marc Talbot</author>
+    <author>Sophie Tison</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1109/LICS.2005.17">Expressiveness of a Spatial Logic for Trees. </title>
+  <venue url="db/conf/lics/lics2005.html#BonevaTT05" conference="LICS" pages="280-289">LICS 2005:280-289</venue>
+  <year>2005</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Iovka Boneva</author>
+    <author>Jean-Marc Talbot</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-540-32033-3_36">Automata and Logics for Unranked and Unordered Trees. </title>
+  <venue url="db/conf/rta/rta2005.html#BonevaT05" conference="RTA" pages="500-515">RTA 2005:500-515</venue>
+  <year>2005</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Iovka Boneva</author>
+    <author>Jean-Marc Talbot</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1016/j.tcs.2004.10.020">When ambients cannot be opened. </title>
+  <venue url="db/journals/tcs/tcs333.html#BonevaT05" journal="Theor. Comput. Sci. (TCS)" pages="127-169" number="1-2" volume="333">Theor. Comput. Sci. (TCS) 333(1-2):127-169 (2005)</venue>
+  <year>2005</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Patricia Bouyer</author>
+    <author>François Laroussinie</author>
+    <author>Pierre-Alain Reynier</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/11603009_10">Diagonal Constraints in Timed Automata: Forward Analysis of Timed Systems. </title>
+  <venue url="db/conf/formats/formats2005.html#BouyerLR05" conference="FORMATS" pages="112-126">FORMATS 2005:112-126</venue>
+  <year>2005</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Pascal Lafourcade</author>
+    <author>Denis Lugiez</author>
+    <author>Ralf Treinen</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-540-32033-3_23">Intruder Deduction for &lt;i>AC&lt;/i>-Like Equational Theories with Homomorphisms. </title>
+  <venue url="db/conf/rta/rta2005.html#LafourcadeLT05" conference="RTA" pages="308-322">RTA 2005:308-322</venue>
+  <year>2005</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Denis Lugiez</author>
+    <author>Ph. Schnoebelen</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1016/j.ic.2005.02.003">Decidable first-order transition logics for PA-processes. </title>
+  <venue url="db/journals/iandc/iandc203.html#LugiezS05" journal="Inf. Comput. (IANDC)" pages="75-113" number="1" volume="203">Inf. Comput. (IANDC) 203(1):75-113 (2005)</venue>
+  <year>2005</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Denis Lugiez</author>
+    <author>Peter Niebert</author>
+    <author>Sarah Zennou</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1016/j.tcs.2005.07.023">A partial order semantics approach to the clock explosion problem of timed automata. </title>
+  <venue url="db/journals/tcs/tcs345.html#LugiezNZ05" journal="Theor. Comput. Sci. (TCS)" pages="27-59" number="1" volume="345">Theor. Comput. Sci. (TCS) 345(1):27-59 (2005)</venue>
+  <year>2005</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Denis Lugiez</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1016/j.tcs.2004.10.023">Multitree automata that count. </title>
+  <venue url="db/journals/tcs/tcs333.html#Lugiez05" journal="Theor. Comput. Sci. (TCS)" pages="225-263" number="1-2" volume="333">Theor. Comput. Sci. (TCS) 333(1-2):225-263 (2005)</venue>
+  <year>2005</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Rémi Morin</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/11549345_59">Concurrent Automata vs. Asynchronous Systems. </title>
+  <venue url="db/conf/mfcs/mfcs2005.html#Morin05" conference="MFCS" pages="686-698">MFCS 2005:686-698</venue>
+  <year>2005</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Joachim Niehren</author>
+    <author>Laurent Planque</author>
+    <author>Jean-Marc Talbot</author>
+    <author>Sophie Tison</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/11601524_14">N-Ary Queries by Tree Automata. </title>
+  <venue url="db/conf/dbpl/dbpl2005.html#NiehrenPTT05" conference="DBPL" pages="217-231">DBPL 2005:217-231</venue>
+  <year>2005</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Joachim Niehren</author>
+    <author>Laurent Planque</author>
+    <author>Jean-Marc Talbot</author>
+    <author>Sophie Tison</author>
+  </authors>
+  <title ee="http://drops.dagstuhl.de/opus/volltexte/2005/226">N-ary Queries by Tree Automata. </title>
+  <venue url="db/conf/dagstuhl/P5061.html#NiehrenPTT05" conference="Foundations of Semistructured Data">Foundations of Semistructured Data 2005</venue>
+  <year>2005</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Hitoshi Ohsaki</author>
+    <author>Jean-Marc Talbot</author>
+    <author>Sophie Tison</author>
+    <author>Yves Roos</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/11591191_24">Monotone AC-Tree Automata. </title>
+  <venue url="db/conf/lpar/lpar2005.html#OhsakiTTR05" conference="LPAR" pages="337-351">LPAR 2005:337-351</venue>
+  <year>2005</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Luigi Santocanale</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1109/LICS.2005.11">Completions of µ-algebras. </title>
+  <venue url="db/conf/lics/lics2005.html#Santocanale05" conference="LICS" pages="219-228">LICS 2005:219-228</venue>
+  <year>2005</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Luigi Santocanale</author>
+    <author>André Arnold</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1016/j.tcs.2004.10.024">Ambiguous classes in mu-calculi hierarchies. </title>
+  <venue url="db/journals/tcs/tcs333.html#SantocanaleA05" journal="Theor. Comput. Sci. (TCS)" pages="265-296" number="1-2" volume="333">Theor. Comput. Sci. (TCS) 333(1-2):265-296 (2005)</venue>
+  <year>2005</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Nicolas Baudru</author>
+    <author>Rémi Morin</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-540-28644-8_7">The Pros and Cons of Netcharts. </title>
+  <venue url="db/conf/concur/concur2004.html#BaudruM04" conference="CONCUR" pages="99-114">CONCUR 2004:99-114</venue>
+  <year>2004</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Iovka Boneva</author>
+    <author>Jean-Marc Talbot</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/1-4020-8141-3_30">On Complexity of Model-Checking for the TQL Logic. </title>
+  <venue url="db/conf/ifipTCS/ifipTCS2004.html#BonevaT04" conference="IFIP TCS" pages="381-394">IFIP TCS 2004:381-394</venue>
+  <year>2004</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Silvano Dal-Zilio</author>
+    <author>Denis Lugiez</author>
+    <author>Charles Meyssonnier</author>
+  </authors>
+  <title ee="http://doi.acm.org/10.1145/964001.964013">A logic you can count on. </title>
+  <venue url="db/conf/popl/popl2004.html#Dal-ZilioLM04" conference="POPL" pages="135-146">POPL 2004:135-146</venue>
+  <year>2004</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Etienne Grandjean</author>
+    <author>Frédéric Olive</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1016/j.jcss.2003.09.002">Graph properties checkable in linear time in the number of vertices. </title>
+  <venue url="db/journals/jcss/jcss68.html#GrandjeanO04" journal="J. Comput. Syst. Sci. (JCSS)" pages="546-597" number="3" volume="68">J. Comput. Syst. Sci. (JCSS) 68(3):546-597 (2004)</venue>
+  <year>2004</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Denis Lugiez</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-540-30500-2_35">From Automata to Semilinear Sets: A Logical Solution for Sets L(C, P). </title>
+  <venue url="db/conf/wia/ciaa2004.html#Lugiez04" conference="CIAA" pages="321-322">CIAA 2004:321-322</venue>
+  <year>2004</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Denis Lugiez</author>
+    <author>Peter Niebert</author>
+    <author>Sarah Zennou</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-540-24730-2_24">A Partial Order Semantics Approach to the Clock Explosion Problem of Timed Automata. </title>
+  <venue url="db/conf/tacas/tacas2004.html#LugiezNZ04" conference="TACAS" pages="296-311">TACAS 2004:296-311</venue>
+  <year>2004</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Roberto M. Amadio</author>
+    <author>Denis Lugiez</author>
+  </authors>
+  <title ee="">CONCUR 2003 - Concurrency Theory, 14th International Conference, Marseille, France, September 3-5, 2003, Proceedings </title>
+  <venue url="db/conf/concur/concur2003.html" conference="CONCUR">CONCUR 2003</venue>
+  <year>2003</year>
+  <type>proceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Roberto M. Amadio</author>
+    <author>Denis Lugiez</author>
+    <author>Vincent Vanackère</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1016/S0304-3975(02)00090-7">On the symbolic reduction of processes with cryptographic functions. </title>
+  <venue url="db/journals/tcs/tcs290.html#AmadioLV03" journal="Theor. Comput. Sci. (TCS)" pages="695-740" number="1" volume="290">Theor. Comput. Sci. (TCS) 290(1):695-740 (2003)</venue>
+  <year>2003</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>André Arnold</author>
+    <author>Luigi Santocanale</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/3-540-36576-1_5">Ambiguous Classes in the Games µ-Calculus Hierarchy. </title>
+  <venue url="db/conf/fossacs/fossacs2003.html#ArnoldS03" conference="FOSSACS" pages="70-86">FoSSaCS 2003:70-86</venue>
+  <year>2003</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Nicolas Baudru</author>
+    <author>Rémi Morin</author>
+  </authors>
+  <title ee="">Safe Implementability of Regular Message Sequence Chart Specifications. </title>
+  <venue url="db/conf/snpd/snpd2003.html#BaudruM03" conference="SNPD" pages="210-217">SNPD 2003:210-217</venue>
+  <year>2003</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Clara Bertolissi</author>
+    <author>Horatiu Cirstea</author>
+    <author>Claude Kirchner</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1016/S1571-0661(04)80674-1">Translating Combinatory Reduction Systems into the Rewriting Calculus. </title>
+  <venue url="db/journals/entcs/entcs86.html#BertolissiCK03" journal="Electr. Notes Theor. Comput. Sci. (ENTCS)" pages="28-44" number="2" volume="86">Electr. Notes Theor. Comput. Sci. (ENTCS) 86(2):28-44 (2003)</venue>
+  <year>2003</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Iovka Boneva</author>
+    <author>Jean-Marc Talbot</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/3-540-36576-1_11">When Ambients Cannot Be Opened. </title>
+  <venue url="db/conf/fossacs/fossacs2003.html#BonevaT03" conference="FOSSACS" pages="169-184">FoSSaCS 2003:169-184</venue>
+  <year>2003</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Witold Charatonik</author>
+    <author>Silvano Dal-Zilio</author>
+    <author>Andrew D. Gordon</author>
+    <author>Supratik Mukhopadhyay</author>
+    <author>Jean-Marc Talbot</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1016/S0304-3975(02)00832-0">Model checking mobile ambients. </title>
+  <venue url="db/journals/tcs/tcs308.html#CharatonikDGMT03" journal="Theor. Comput. Sci. (TCS)" pages="277-331" number="1-3" volume="308">Theor. Comput. Sci. (TCS) 308(1-3):277-331 (2003)</venue>
+  <year>2003</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Silvano Dal-Zilio</author>
+    <author>Denis Lugiez</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/3-540-44881-0_18">XML Schema, Tree Logic and Sheaves Automata. </title>
+  <venue url="db/conf/rta/rta2003.html#Dal-ZilioL03" conference="RTA" pages="246-263">RTA 2003:246-263</venue>
+  <year>2003</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Silvio Ghilardi</author>
+    <author>Luigi Santocanale</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-540-39813-4_10">Algebraic and Model Theoretic Techniques for Fusion Decidability in Modal Logics. </title>
+  <venue url="db/conf/lpar/lpar2003.html#GhilardiS03" conference="LPAR" pages="152-166">LPAR 2003:152-166</venue>
+  <year>2003</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Denis Lugiez</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/3-540-36576-1_21">Counting and Equality Constraints for Multitree Automata. </title>
+  <venue url="db/conf/fossacs/fossacs2003.html#Lugiez03" conference="FOSSACS" pages="328-342">FoSSaCS 2003:328-342</venue>
+  <year>2003</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Luigi Santocanale</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1016/S1571-0661(04)80647-9">Logical Construction of Final Coalgebras. </title>
+  <venue url="db/journals/entcs/entcs82.html#Santocanale03" journal="Electr. Notes Theor. Comput. Sci. (ENTCS)" pages="321-340" number="1" volume="82">Electr. Notes Theor. Comput. Sci. (ENTCS) 82(1):321-340 (2003)</venue>
+  <year>2003</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Sébastien Bornot</author>
+    <author>Rémi Morin</author>
+    <author>Peter Niebert</author>
+    <author>Sarah Zennou</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/3-540-46002-0_27">Black Box Unfolding with Local First Search. </title>
+  <venue url="db/conf/tacas/tacas2002.html#BornotMNZ02" conference="TACAS" pages="386-400">TACAS 2002:386-400</venue>
+  <year>2002</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Witold Charatonik</author>
+    <author>Andrew D. Gordon</author>
+    <author>Jean-Marc Talbot</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/3-540-45927-8_21">Finite-Control Mobile Ambients. </title>
+  <venue url="db/conf/esop/esop2002.html#CharatonikGT02" conference="ESOP" pages="295-313">ESOP 2002:295-313</venue>
+  <year>2002</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Witold Charatonik</author>
+    <author>Jean-Marc Talbot</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/3-540-45610-4_22">Atomic Set Constraints with Projection. </title>
+  <venue url="db/conf/rta/rta2002.html#CharatonikT02" conference="RTA" pages="311-325">RTA 2002:311-325</venue>
+  <year>2002</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Jean Fanchon</author>
+    <author>Rémi Morin</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/3-540-45694-5_27">Regular Sets of Pomsets with Autoconcurrency. </title>
+  <venue url="db/conf/concur/concur2002.html#FanchonM02" conference="CONCUR" pages="402-417">CONCUR 2002:402-417</venue>
+  <year>2002</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Dietrich Kuske</author>
+    <author>Rémi Morin</author>
+  </authors>
+  <title ee="">Pomsets for Local Trace Languages. </title>
+  <venue url="db/journals/jalc/jalc7.html#KuskeM02" journal="Journal of Automata, Languages and Combinatorics (JALC)" pages="187-224" number="2" volume="7">Journal of Automata, Languages and Combinatorics (JALC) 7(2):187-224 (2002)</venue>
+  <year>2002</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Denis Lugiez</author>
+    <author>Peter Niebert</author>
+    <author>Sarah Zennou</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/3-540-46017-9_17">Dynamic Bounds and Transition Merging for Local First Search. </title>
+  <venue url="db/conf/spin/spin2002.html#LugiezNZ02" conference="SPIN" pages="221-229">SPIN 2002:221-229</venue>
+  <year>2002</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Denis Lugiez</author>
+    <author>Ph. Schnoebelen</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1016/S0304-3975(00)00306-6">The regular viewpoint on PA-processes. </title>
+  <venue url="db/journals/tcs/tcs274.html#LugiezS02" journal="Theor. Comput. Sci. (TCS)" pages="89-115" number="1-2" volume="274">Theor. Comput. Sci. (TCS) 274(1-2):89-115 (2002)</venue>
+  <year>2002</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Rémi Morin</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/3-540-45841-7_43">Recognizable Sets of Message Sequence Charts. </title>
+  <venue url="db/conf/stacs/stacs2002.html#Morin02" conference="STACS" pages="523-534">STACS 2002:523-534</venue>
+  <year>2002</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Witold Charatonik</author>
+    <author>Jean-Marc Talbot</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/3-540-44802-0_24">The Decidability of Model Checking Mobile Ambients. </title>
+  <venue url="db/conf/csl/csl2001.html#CharatonikT01" conference="CSL" pages="339-354">CSL 2001:339-354</venue>
+  <year>2001</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Witold Charatonik</author>
+    <author>Silvano Dal-Zilio</author>
+    <author>Andrew D. Gordon</author>
+    <author>Supratik Mukhopadhyay</author>
+    <author>Jean-Marc Talbot</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/3-540-45315-6_10">The Complexity of Model Checking Mobile Ambients. </title>
+  <venue url="db/conf/fossacs/fossacs2001.html#CharatonikDGMT01" conference="FOSSACS" pages="152-167">FoSSaCS 2001:152-167</venue>
+  <year>2001</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Rémi Morin</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/3-540-45315-6_22">On Regular Message Sequence Chart Languages and Relationships to Mazurkiewicz Trace Theory. </title>
+  <venue url="db/conf/fossacs/fossacs2001.html#Morin01" conference="FOSSACS" pages="332-346">FoSSaCS 2001:332-346</venue>
+  <year>2001</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Peter Niebert</author>
+    <author>Michaela Huhn</author>
+    <author>Sarah Zennou</author>
+    <author>Denis Lugiez</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/3-540-44685-0_27">Local First Search - A New Paradigm for Partial Order Reductions. </title>
+  <venue url="db/conf/concur/concur2001.html#NiebertHZL01" conference="CONCUR" pages="396-410">CONCUR 2001:396-410</venue>
+  <year>2001</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Rakesh M. Verma</author>
+    <author>Michaël Rusinowitch</author>
+    <author>Denis Lugiez</author>
+  </authors>
+  <title ee="http://iospress.metapress.com/content/dr7v3pqm37a7upc1/">Algorithms and Reductions for Rewriting Problems. </title>
+  <venue url="db/journals/fuin/fuin46.html#VermaRL01" journal="Fundam. Inform. (FUIN)" pages="257-276" number="3" volume="46">Fundam. Inform. (FUIN) 46(3):257-276 (2001)</venue>
+  <year>2001</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Roberto M. Amadio</author>
+    <author>Denis Lugiez</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/3-540-44618-4_28">On the Reachability Problem in Cryptographic Protocols. </title>
+  <venue url="db/conf/concur/concur2000.html#AmadioL00" conference="CONCUR" pages="380-394">CONCUR 2000:380-394</venue>
+  <year>2000</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Jean-François Husson</author>
+    <author>Rémi Morin</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/3-540-46432-8_12">On Recognizable Stable Trace Languages. </title>
+  <venue url="db/conf/fossacs/fossacs2000.html#HussonM00" conference="FOSSACS" pages="177-191">FoSSaCS 2000:177-191</venue>
+  <year>2000</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Dietrich Kuske</author>
+    <author>Rémi Morin</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/3-540-44618-4_31">Pomsets for Local Trace Languages - Recognizability, Logic &amp; Petri Nets. </title>
+  <venue url="db/conf/concur/concur2000.html#KuskeM00" conference="CONCUR" pages="426-441">CONCUR 2000:426-441</venue>
+  <year>2000</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Denis Lugiez</author>
+    <author>Ph. Schnoebelen</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/3-540-45022-X_30">Decidable First-Order Transition Logics for PA-Processes. </title>
+  <venue url="db/conf/icalp/icalp2000.html#LugiezS00" conference="ICALP" pages="342-353">ICALP 2000:342-353</venue>
+  <year>2000</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Jean-Marc Talbot</author>
+    <author>Philippe Devienne</author>
+    <author>Sophie Tison</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1023/A:1009826603139">Generalized Definite Set Constraints. </title>
+  <venue url="db/journals/constraints/constraints5.html#TalbotDT00" journal="Constraints" pages="161-202" number="1/2" volume="5">Constraints 5(1/2):161-202 (2000)</venue>
+  <year>2000</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Jean-Marc Talbot</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1016/S0020-0190(00)00030-2">The forall-exists&lt;sup>2&lt;/sup> fragment of the first-order theory of atomic set constraints is Pi&lt;sup>0&lt;/sup>&lt;sub>1&lt;/sub>-hard. </title>
+  <venue url="db/journals/ipl/ipl74.html#Talbot00" journal="Inf. Process. Lett. (IPL)" pages="27-33" number="1-2" volume="74">Inf. Process. Lett. (IPL) 74(1-2):27-33 (2000)</venue>
+  <year>2000</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Jean-Marc Talbot</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/3-540-44404-1_27">On the Alternation-Free Horn Mu-calculus. </title>
+  <venue url="db/conf/lpar/lpar2000.html#Talbot00" conference="LPAR" pages="418-435">LPAR 2000:418-435</venue>
+  <year>2000</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>H. C. M. Kleijn</author>
+    <author>Rémi Morin</author>
+    <author>Brigitte Rozoy</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/3-540-48321-7_28">A General Categorical Connection between Local Event Structures and Local Traces. </title>
+  <venue url="db/conf/fct/fct99.html#KleijnMR99" conference="FCT" pages="338-349">FCT 1999:338-349</venue>
+  <year>1999</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Rémi Morin</author>
+    <author>Brigitte Rozoy</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/3-540-48320-9_31">On the Semantics of Place/Transition Nets. </title>
+  <venue url="db/conf/concur/concur1999.html#MorinR99" conference="CONCUR" pages="447-462">CONCUR 1999:447-462</venue>
+  <year>1999</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Rémi Morin</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1016/S1571-0661(05)80628-0">Hierarchy of asynchronous automata. </title>
+  <venue url="db/journals/entcs/entcs28.html#Morin99" journal="Electr. Notes Theor. Comput. Sci. (ENTCS)" pages="22-39" volume="28">Electr. Notes Theor. Comput. Sci. (ENTCS) 28:22-39 (1999)</venue>
+  <year>1999</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Etienne Grandjean</author>
+    <author>Frédéric Olive</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/PL00001594">Monadic Logical Definability of Nondeterministic Linear Time. </title>
+  <venue url="db/journals/cc/cc7.html#GrandjeanO98" journal="Computational Complexity (CC)" pages="54-97" number="1" volume="7">Computational Complexity (CC) 7(1):54-97 (1998)</venue>
+  <year>1998</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>H. C. M. Kleijn</author>
+    <author>Rémi Morin</author>
+    <author>Brigitte Rozoy</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1016/S1571-0661(04)00120-3">Event Structures for Local Traces. </title>
+  <venue url="db/journals/entcs/entcs16.html#KleijnMR98" journal="Electr. Notes Theor. Comput. Sci. (ENTCS)" pages="98-113" number="2" volume="16">Electr. Notes Theor. Comput. Sci. (ENTCS) 16(2):98-113 (1998)</venue>
+  <year>1998</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Rémi Morin</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/BFb0055647">Decompositions of Asynchronous Systems. </title>
+  <venue url="db/conf/concur/concur1998.html#Morin98" conference="CONCUR" pages="549-564">CONCUR 1998:549-564</venue>
+  <year>1998</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Malika More</author>
+    <author>Frédéric Olive</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1002/malq.19970430315">Rudimentary Languages and Second Order Logic. </title>
+  <venue url="db/journals/mlq/mlq43.html#MoreO97" journal="Math. Log. Q. (MLQ)" pages="419-426" volume="43">Math. Log. Q. (MLQ) 43:419-426 (1997)</venue>
+  <year>1997</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Frédéric Olive</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/BFb0028025">A Conjunctive Logical Characterization of Nondeterministic Linear Time. </title>
+  <venue url="db/conf/csl/csl97.html#Olive97" conference="CSL" pages="360-372">CSL 1997:360-372</venue>
+  <year>1997</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Etienne Grandjean</author>
+    <author>Frédéric Olive</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/BFb0022256">Monadic Logical Definability of NP-Complete Problems. </title>
+  <venue url="db/conf/csl/csl94.html#GrandjeanO94" conference="CSL" pages="190-204">CSL 1994:190-204</venue>
+  <year>1994</year>
+  <type>inproceedings</type>
+</info>
+</body>

@@ -1,0 +1,31 @@
+noeud -> borneOuvrante (element)* borneFermante
+element -> texte | noeud
+borneOuvrante -> "<" nom listeAttributs ">"
+listeAttributs -> (attribut)*
+attribut -> domaine "="" valeur """
+domaine, nom, texte, valeur -> string
+borneFermante -> "</" nom ">"
+
+mot -> rien
+mot -> lettre mot
+
+<books >\n<book  language =" French">\n<title >Désert </title >\n<author >Le Clézio </author >\n</book >\n<book >\n<title >\nContes  du XIXème siècle
+</itle >
+<author >Flaubert </author >
+<author >Gautier </author >
+</book >
+</books >
+
+<books >
+<book  language =" French">
+<title >bla</title >
+<author >bla</author >
+</book >
+<book >
+<title >
+bla
+</title >
+<author >Flaubert </author >
+<author >Gautier </author >
+</book >
+</books >
