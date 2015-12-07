@@ -563,6 +563,16 @@ showXQueryResult (t:ts) = "-> \n" ++ (showXmlTree t) ++ "\n" ++ (showXQueryResul
 
 -- || TESTS
 
+testXmlTreeParsing :: String -> String
+testXmlTreeParsing str = case parse parserTree str of
+							Right error -> "L'entree n'est pas valable.\n"
+							Left (tree, _) -> let tree_str = showXmlTree tree in
+								case parse parserTree tree_str of
+									Right error -> "Le second parse n'est pas valide.\n"
+									Left (tree_bis, _) -> case tree_str == (showXmlTree tree_bis) of
+										True -> "L'arbre correspond a lui meme !\n"
+										False -> "L'arbre ne correspond pas à lui meme !\n"
+
 tree :: XmlTree
 tree = ("books",[],[Tree ("book",[("language"," French")],[Tree ("title",[],[Text "bla"]),Tree ("author",[],[Text "bla"])]),Tree ("book",[],[Tree ("title",[],[Text "bla"]),Tree ("author",[],[Text "Flaubert "]),Tree ("author",[],[Text "Gautier "])])])
 
