@@ -10,6 +10,8 @@ module Parser(
              )  
     where
 
+    import Debug.Trace
+
     type Resultat a = Either (a, String) String
     newtype Parser a = MkParser (String -> Resultat a ) 
 
@@ -25,7 +27,8 @@ module Parser(
                               (c:cs) -> Left (c, cs))
 
     parse :: Parser a -> String -> Resultat a
-    parse (MkParser p) = p
+   -- parse p s | trace ("Chaine = " ++ s) False = undefined
+    parse (MkParser p) s = p s
 
     (|||) :: Parser a -> Parser a -> Parser a
     p ||| p' = MkParser (\s -> case parse p s of
@@ -45,6 +48,9 @@ module Parser(
 
     zeroOuPlus :: Parser a -> Parser [a]
     zeroOuPlus p = unOuPlus p ||| retourne []
+                 --   unOuPlus p
+                -- !!!
+                 --   \error -> trace (error) retourne []
 
     unOuPlus :: Parser a -> Parser [a]
     unOuPlus p = p				>>> \x ->

@@ -1,6 +1,7 @@
 import Parser
 import System.IO
 import System.Environment
+import Debug.Trace
 
 -- || MAIN
 
@@ -25,6 +26,13 @@ main = do
 								readResults results
 							
 			return ()
+
+main_from_files :: String -> String -> IO ()
+main_from_files a b = do
+						request <- getAllFile a
+						tree <- getAllFile b
+						results <- executeRequest request tree
+						readResults results
 
 getAllFile :: String -> IO String
 getAllFile path = do
@@ -52,10 +60,21 @@ readResults ts = putStrLn (showXQueryResult ts)
 testParseXmlTree :: String -> IO ()
 testParseXmlTree path = do
 					content <- getAllFile path
-					result <- executeParseXmlTree content
-					case result of
-						Left tree -> putStrLn (showXmlTree tree)
-						Right error -> putStrLn error
+					putStr content
+--					result <- executeParseXmlTree content
+--					case result of
+--						Left tree -> putStrLn (showXmlTree tree)
+--						Right error -> putStrLn error
+
+readAllDoc :: String -> IO String
+readAllDoc path = do
+				content <- getAllFile path	
+				return content
+
+aaa :: (IO String) -> IO (Either (XmlTree, String) String)
+aaa f = do
+			file <- f
+			return (parse parserTree file)
 
 
 type ParserResult a = Either a String
@@ -81,17 +100,17 @@ executeParseXmlTree str = return (parseJustXmlTree str)
 
 parseJustXmlTree :: String -> ParserResult XmlTree
 parseJustXmlTree str =
-				case result of
-					Left (request, "") -> Left request
-					Left (request, cs) -> Right ("Parsing tree error : \"" ++ cs ++ "\" couldn't be parsed")
-					Right error -> Right error
-					where result = parse (
-									do
-										r <- parserTree
-										parserSpace
-										return r
-										) str
-					
+				let result = parse (
+						do
+							r <- parserTree
+							parserSpace
+							return r
+						) str
+				in
+					case result of
+						Left (request, "") -> Left request
+						Left (request, cs) -> Right ("Parsing tree error : \"" ++ cs ++ "\" couldn't be parsed")
+						Right error -> Right error
 
 -- || XMLTREE
 
@@ -193,6 +212,7 @@ parserTextUntil filtre = MkParser(
 								Right error -> Right error -- ce cas n'arrive jamais dans la pratique
 								Left(y, ys) -> Left(x:y, ys) )
 									 )
+
 parserNoeudElement :: Parser XmlElement
 parserNoeudElement = do
 						noeud <- parserNoeud;
@@ -210,31 +230,54 @@ parserNoeud = do
 				parserSpace;
 			  	parserBorneFermante nom elements;
 			  	return (nom, attributs, elements);
+			!!!
+				\error -> fail (error ++ " pendant qu'on parsait un noeud")
 
 parserElement :: Parser XmlElement
-parserElement = parserNoeudElement ||| parserTextElement
+--parserElement = parserNoeudElement ||| parserTextElement
+parserElement = 	parserNoeudElement
+					!!!
+					\error -> fail (error ++ ", ")
+				!!!
+					\suberror -> do
+							parserTextElement
+							!!!
+							\error2 -> fail (suberror ++ error2 ++ " pendant parser element")
+				
 
 parserBorneOuvrante :: Parser (XmlNom, [XmlAttribut])
 parserBorneOuvrante = do
 						parserChars "<";
+						parserSpace;
 						nom <- parserNom;
 					  	parserSpace;
 						listeAttribut <- parserListeAttributs;
+						parserSpace;
 						parserChars ">";
 						return (nom, listeAttribut);
+					!!!
+						\error -> fail (error ++ " pendant qu'on regardait une borne ouvrante")
 
 parserListeAttributs :: Parser [XmlAttribut]
 parserListeAttributs = zeroOuPlus
-						(parserSpace >> parserAttribut)
+						(do
+							parserSpace
+							attr <- parserAttribut
+							return attr)
+
+parserNomAttribut :: Parser String
+parserNomAttribut = parserTextUntil "=<> \"\t\n\r"
 
 parserAttribut :: Parser XmlAttribut
 parserAttribut = do
-					domaine <- parserNom;
+					domaine <- parserNomAttribut;
 					parserSpace;
 					parserWord "=\"";
 					valeur <- parserTextUntil "\"";
 					parserChars "\"";
 					return (domaine, valeur);
+				!!!
+					\error -> fail (error ++ " pendant qu'on parsait un attribut")
 
 parserTextElement :: Parser XmlElement
 parserTextElement = do
@@ -252,17 +295,16 @@ parserText = do
 				parserSpace;
 				text <- parserTextUntil "<";
 				case text of
-					"" -> fail ""
+					"" -> fail "Text elements can't be empty"
 					cs -> return text;
 
 parserNom :: Parser [Char]
-parserNom = parserTextUntil "=<> \"\t\n\r"
+parserNom = parserTextUntil "> \"\t\n\r"
 
 parserBorneFermante :: String -> [XmlElement] -> Parser XmlNom
 parserBorneFermante nom es = do
-							parserSpace;
-							parserWord "</";
-							parserWord nom;
+							parserSpacedWord "</";
+							parserSpacedWord nom;
 							parserSpace;
 							parserChars ">";
 							return nom;
