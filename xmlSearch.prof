@@ -1,0 +1,333 @@
+	Mon Dec  7 13:55 2015 Time and Allocation Profiling Report  (Final)
+
+	   xmlSearch +RTS -p -K100M -RTS / text.xml
+
+	total time  =       38.19 secs   (38185 ticks @ 1000 us, 1 processor)
+	total alloc = 4,435,768,384 bytes  (excludes profiling overheads)
+
+COST CENTRE         MODULE    %time %alloc
+
+parserSpace.\       Main       21.9   40.2
+>>>.\               Parser     13.9   13.5
+parse               Parser     13.7    0.0
+parserNotChars.\    Main        5.1    2.8
+parserWord          Main        4.9    7.0
+parserTextUntil.\   Main        4.0    8.3
+parserBorneFermante Main        3.5    3.8
+parserChars.\       Main        3.3    2.4
+!!!.\               Parser      2.9    2.6
+parserSpacedWord    Main        2.4    2.0
+parserNoeud         Main        2.2    1.2
+parserAttribut      Main        2.2    2.2
+parserBorneOuvrante Main        2.0    0.9
+>>>                 Parser      1.9    0.0
+fail                Parser      1.7    1.2
+parserNotChars      Main        1.3    1.0
+retourne            Parser      1.3    2.8
+parserChars         Main        1.1    0.7
+parserTextUntil     Main        1.0    0.6
+zeroOuPlus          Parser      1.0    1.1
+echoue              Parser      0.9    1.2
+parserElement.\     Main        0.8    1.0
+
+
+                                                                              individual     inherited
+COST CENTRE                         MODULE                  no.     entries  %time %alloc   %time %alloc
+
+MAIN                                MAIN                     82           0    0.0    0.0   100.0  100.0
+ CAF:$c>>_rjP                       Parser                  163           0    0.0    0.0     0.0    0.0
+ CAF:a8_rjN                         Parser                  161           0    0.0    0.0     0.0    0.0
+  >>=                               Parser                  172           1    0.0    0.0     0.0    0.0
+ CAF:a7_rjL                         Parser                  159           0    0.0    0.0     0.0    0.0
+  return                            Parser                  204           1    0.0    0.0     0.0    0.0
+ CAF:main                           :Main                   156           0    0.0    0.0   100.0  100.0
+  main                              Main                    165           0    0.0    0.0   100.0  100.0
+   readResults                      Main                    425           1    0.0    0.0     0.0    0.0
+    showXQueryResult                Main                    427           2    0.0    0.0     0.0    0.0
+     showXmlTree                    Main                    428           1    0.0    0.0     0.0    0.0
+      showXmlElement                Main                    429          35    0.0    0.0     0.0    0.0
+       showXmlElements              Main                    432          52    0.0    0.0     0.0    0.0
+       showXmlAttributs             Main                    431          18    0.0    0.0     0.0    0.0
+       showXmlNom                   Main                    430          36    0.0    0.0     0.0    0.0
+   executeRequest                   Main                    167           1    0.0    0.0   100.0  100.0
+    query                           Main                    426           1    0.0    0.0     0.0    0.0
+    executeParseXmlTree             Main                    240           1    0.0    0.0   100.0  100.0
+     parseJustXmlTree               Main                    241           1    0.0    0.0   100.0  100.0
+      parseJustXmlTree.result       Main                    242           1    0.0    0.0   100.0  100.0
+       >>>                          Parser                  244           1    0.0    0.0     0.0    0.0
+       parse                        Parser                  243    42860405   13.7    0.0   100.0  100.0
+        parserText                  Main                    366           0    0.9    0.2     7.1    7.9
+         fail                       Parser                  379      393215    0.2    0.1     0.3    0.3
+          echoue                    Parser                  380      393215    0.1    0.1     0.1    0.1
+           echoue.\                 Parser                  381      393215    0.0    0.0     0.0    0.0
+         retourne                   Parser                  374      131071    0.0    0.1     0.0    0.1
+          retourne.\                Parser                  375      131071    0.0    0.0     0.0    0.0
+         parserTextUntil            Main                    370     1048568    0.6    0.4     5.0    6.6
+          parserTextUntil.\         Main                    371     1572854    2.1    4.3     4.5    6.2
+           parserNotChars           Main                    372     1441782    0.6    0.5     2.4    1.9
+            parserNotChars.\        Main                    373     1441782    1.8    1.4     1.8    1.4
+         >>>                        Parser                  367           0    0.1    0.0     0.8    0.8
+          >>>.\                     Parser                  368     1048572    0.7    0.8     0.7    0.8
+        parserTextElement           Main                    361           0    0.2    0.2     0.5    0.5
+         strRemoveSpace             Main                    433          51    0.0    0.0     0.0    0.0
+         retourne                   Parser                  376      131071    0.0    0.1     0.0    0.1
+          retourne.\                Parser                  377      131071    0.0    0.0     0.0    0.0
+         >>>                        Parser                  362           0    0.1    0.0     0.3    0.2
+          >>>.\                     Parser                  363      524286    0.2    0.2     0.2    0.2
+        parserNoeudElement          Main                    341           0    0.3    0.1     0.7    0.5
+         retourne                   Parser                  419      131071    0.0    0.1     0.0    0.1
+          retourne.\                Parser                  420      131071    0.0    0.0     0.0    0.0
+         >>>                        Parser                  342           0    0.1    0.0     0.4    0.3
+          >>>.\                     Parser                  343      655357    0.3    0.3     0.3    0.3
+        parserElement               Main                    336           0    0.3    0.0     3.6    3.5
+         parserElement.\            Main                    352      524286    0.8    1.0     2.8    3.1
+          fail                      Parser                  355      524286    0.3    0.2     0.4    0.4
+           echoue                   Parser                  356      524286    0.1    0.2     0.1    0.2
+            echoue.\                Parser                  357      524286    0.0    0.0     0.0    0.0
+          !!!                       Parser                  353     1048572    0.1    0.0     1.7    1.7
+           !!!.\                    Parser                  354     1048572    0.6    0.7     1.6    1.7
+            parserElement.\.\       Main                    358      524286    0.5    0.5     1.0    1.0
+             parserElement.\.\.\    Main                    382      393215    0.1    0.3     0.5    0.6
+              fail                  Parser                  383      393215    0.2    0.1     0.3    0.3
+               echoue               Parser                  384      393215    0.1    0.1     0.1    0.1
+                echoue.\            Parser                  385      393215    0.0    0.0     0.0    0.0
+         !!!                        Parser                  337           0    0.1    0.0     0.4    0.4
+          !!!.\                     Parser                  338      655357    0.3    0.4     0.3    0.4
+        parserNomAttribut           Main                    301           0    0.0    0.0     1.4    1.6
+         parserTextUntil            Main                    302           0    0.1    0.0     1.4    1.6
+          parserTextUntil.\         Main                    303      393215    0.3    1.0     1.3    1.6
+           parserNotChars           Main                    304      393215    0.2    0.1     1.0    0.6
+            parserNotChars.\        Main                    305      393215    0.8    0.4     0.8    0.4
+        parserAttribut              Main                    293           0    2.2    2.2     7.0    6.8
+         parserAttribut.\           Main                    317      393215    0.2    0.2     0.4    0.5
+          fail                      Parser                  318      393215    0.2    0.1     0.2    0.3
+           echoue                   Parser                  319      393215    0.1    0.1     0.1    0.1
+            echoue.\                Parser                  320      393215    0.0    0.0     0.0    0.0
+         parserWord                 Main                    306      393215    1.0    1.5     3.1    3.1
+          parserChars               Main                    311      393215    0.2    0.1     0.8    0.6
+           parserChars.\            Main                    312      393215    0.6    0.4     0.6    0.4
+          >>>                       Parser                  309      393215    0.0    0.0     0.2    0.1
+           >>>.\                    Parser                  310      393215    0.1    0.1     0.1    0.1
+          !!!                       Parser                  307      393215    0.1    0.0     1.1    0.9
+           !!!.\                    Parser                  308      393215    0.3    0.3     1.1    0.9
+            parserWord.\            Main                    313      393215    0.4    0.4     0.7    0.6
+             fail                   Parser                  314      393215    0.2    0.1     0.4    0.3
+              echoue                Parser                  315      393215    0.2    0.1     0.2    0.1
+               echoue.\             Parser                  316      393215    0.0    0.0     0.0    0.0
+         >>>                        Parser                  297      786430    0.2    0.0     1.0    0.7
+          >>>.\                     Parser                  298     1179645    0.8    0.7     0.8    0.7
+         !!!                        Parser                  294           0    0.1    0.0     0.3    0.3
+          !!!.\                     Parser                  295      393215    0.3    0.3     0.3    0.3
+        parserListeAttributs        Main                    279           0    0.2    0.0     1.5    0.9
+         >>>                        Parser                  289           0    0.1    0.0     0.4    0.4
+          >>>.\                     Parser                  290      786430    0.3    0.4     0.3    0.4
+         zeroOuPlus                 Parser                  280           0    0.2    0.0     0.9    0.5
+          retourne                  Parser                  322           0    0.2    0.4     0.2    0.4
+           retourne.\               Parser                  323      393215    0.0    0.0     0.0    0.0
+          unOuPlus                  Parser                  285           0    0.1    0.0     0.3    0.1
+           >>>                      Parser                  286           0    0.1    0.0     0.2    0.1
+            >>>.\                   Parser                  287      393215    0.2    0.1     0.2    0.1
+          |||                       Parser                  281           0    0.0    0.0     0.2    0.0
+           |||.\                    Parser                  282      393215    0.2    0.0     0.2    0.0
+        parserNom                   Main                    271           0    0.0    0.0     5.0    4.6
+         parserTextUntil            Main                    272      655358    0.4    0.2     5.0    4.6
+          parserTextUntil.\         Main                    273     1048573    1.6    3.0     4.6    4.4
+           parserNotChars           Main                    274     1048573    0.5    0.4     3.0    1.4
+            parserNotChars.\        Main                    275     1048573    2.5    1.0     2.5    1.0
+        parserBorneOuvrante         Main                    260           0    2.0    0.9     9.4    7.0
+         parserBorneOuvrante.\      Main                    344      262143    0.2    0.1     0.5    0.3
+          fail                      Parser                  345      262143    0.2    0.1     0.3    0.2
+           echoue                   Parser                  346      262143    0.1    0.1     0.1    0.1
+            echoue.\                Parser                  347      262143    0.0    0.0     0.0    0.0
+         parserChars                Main                    267           0    0.1    0.0     0.9    0.6
+          parserChars.\             Main                    268      655358    0.8    0.6     0.8    0.6
+         >>>                        Parser                  264     1572860    0.4    0.0     5.7    4.9
+          >>>.\                     Parser                  265     3014648    4.4    4.1     5.3    4.9
+           retourne                 Parser                  326      393215    0.2    0.4     0.2    0.4
+            retourne.\              Parser                  327      393215    0.0    0.0     0.0    0.0
+           parserChars              Main                    324      393215    0.2    0.1     0.8    0.5
+            parserChars.\           Main                    325      393215    0.6    0.4     0.6    0.4
+         !!!                        Parser                  261           0    0.1    0.0     0.4    0.2
+          !!!.\                     Parser                  262      655358    0.3    0.2     0.3    0.2
+        parserSpace                 Main                    256           0    0.9    0.0    22.8   40.2
+         parserSpace.\              Main                    257     5767153   21.9   40.2    21.9   40.2
+        parserNoeud                 Main                    250           0    2.2    1.2    27.3   26.5
+         parserNoeud.\              Main                    348      524286    0.2    0.3     0.5    0.7
+          fail                      Parser                  349      524286    0.2    0.2     0.3    0.4
+           echoue                   Parser                  350      524286    0.1    0.2     0.1    0.2
+            echoue.\                Parser                  351      524286    0.0    0.0     0.0    0.0
+         zeroOuPlus                 Parser                  328      655357    0.8    1.1     3.3    3.0
+          retourne                  Parser                  386      393215    0.2    0.4     0.2    0.4
+           retourne.\               Parser                  387      393215    0.0    0.0     0.0    0.0
+          unOuPlus                  Parser                  331      655357    0.4    0.2     1.9    1.5
+           >>>                      Parser                  332      917499    0.2    0.0     1.6    1.3
+            >>>.\                   Parser                  333      917499    0.8    0.5     1.4    1.3
+             unOuPlus.\.\           Parser                  410      262142    0.2    0.2     0.3    0.5
+              retourne              Parser                  411      262142    0.1    0.2     0.1    0.2
+               retourne.\           Parser                  412      262142    0.0    0.0     0.0    0.0
+             unOuPlus.\             Parser                  378      262142    0.3    0.3     0.3    0.3
+          |||                       Parser                  329      655357    0.1    0.0     0.4    0.0
+           |||.\                    Parser                  330      655357    0.3    0.0     0.3    0.0
+         >>>                        Parser                  254     5373937    0.6    0.0    20.8   21.3
+          >>>.\                     Parser                  255     6684653    6.2    6.2    20.1   21.3
+           retourne                 Parser                  417      131072    0.1    0.1     0.1    0.1
+            retourne.\              Parser                  418      131072    0.0    0.0     0.0    0.0
+           parserBorneFermante      Main                    388      393215    3.5    3.8    13.8   14.9
+            retourne                Parser                  415      131072    0.0    0.1     0.0    0.1
+             retourne.\             Parser                  416      131072    0.0    0.0     0.0    0.0
+            parserChars             Main                    413      131072    0.1    0.0     0.2    0.2
+             parserChars.\          Main                    414      131072    0.1    0.1     0.1    0.1
+            parserSpacedWord        Main                    391      655358    2.4    2.0     9.5   10.3
+             retourne               Parser                  408      393215    0.1    0.4     0.1    0.4
+              retourne.\            Parser                  409      393215    0.0    0.0     0.0    0.0
+             parserWord             Main                    392     1310716    3.9    5.5     7.0    7.9
+              retourne              Parser                  406      655358    0.3    0.6     0.3    0.6
+               retourne.\           Parser                  407      655358    0.0    0.0     0.0    0.0
+              parserWord.\          Main                    405      393215    0.0    0.0     0.0    0.0
+              parserChars           Main                    395      917501    0.6    0.3     1.8    1.2
+               parserChars.\        Main                    396      917501    1.3    0.9     1.3    0.9
+              !!!                   Parser                  393      917501    0.1    0.0     0.9    0.6
+               !!!.\                Parser                  394      917501    0.4    0.2     0.8    0.6
+                parserWord.\        Main                    397      262143    0.2    0.2     0.4    0.4
+                 fail               Parser                  398      262143    0.1    0.1     0.2    0.2
+                  echoue            Parser                  399      262143    0.1    0.1     0.1    0.1
+                   echoue.\         Parser                  400      262143    0.0    0.0     0.0    0.0
+            !!!                     Parser                  389      393215    0.1    0.0     0.7    0.6
+             !!!.\                  Parser                  390      393215    0.3    0.2     0.6    0.6
+              parserBorneFermante.\ Main                    401      262143    0.1    0.2     0.3    0.4
+               fail                 Parser                  402      262143    0.1    0.1     0.2    0.2
+                echoue              Parser                  403      262143    0.1    0.1     0.1    0.1
+                 echoue.\           Parser                  404      262143    0.0    0.0     0.0    0.0
+         !!!                        Parser                  251           0    0.1    0.0     0.5    0.4
+          !!!.\                     Parser                  252      655358    0.4    0.4     0.4    0.4
+        >>>                         Parser                  245           1    0.0    0.0     0.0    0.0
+         >>>.\                      Parser                  246           2    0.0    0.0     0.0    0.0
+          retourne                  Parser                  423           1    0.0    0.0     0.0    0.0
+           retourne.\               Parser                  424           1    0.0    0.0     0.0    0.0
+    executeParseXRequest            Main                    168           1    0.0    0.0     0.0    0.0
+     parseJustXRequest              Main                    169           1    0.0    0.0     0.0    0.0
+      parseJustXRequest.result      Main                    170           1    0.0    0.0     0.0    0.0
+       >>>                          Parser                  173           1    0.0    0.0     0.0    0.0
+       parse                        Parser                  171          41    0.0    0.0     0.0    0.0
+        parserSpace                 Main                    213           0    0.0    0.0     0.0    0.0
+         parserSpace.\              Main                    214           3    0.0    0.0     0.0    0.0
+        parserXElement              Main                    209           0    0.0    0.0     0.0    0.0
+         fail                       Parser                  218           2    0.0    0.0     0.0    0.0
+          echoue                    Parser                  219           2    0.0    0.0     0.0    0.0
+           echoue.\                 Parser                  220           2    0.0    0.0     0.0    0.0
+         parserTextUntil            Main                    216           0    0.0    0.0     0.0    0.0
+          parserTextUntil.\         Main                    217           2    0.0    0.0     0.0    0.0
+         >>>                        Parser                  210           0    0.0    0.0     0.0    0.0
+          >>>.\                     Parser                  211           4    0.0    0.0     0.0    0.0
+        parserPath                  Main                    186           0    0.0    0.0     0.0    0.0
+         parserWord                 Main                    194           2    0.0    0.0     0.0    0.0
+          parserWord.\              Main                    203           2    0.0    0.0     0.0    0.0
+          parserChars               Main                    201           0    0.0    0.0     0.0    0.0
+           parserChars.\            Main                    202           2    0.0    0.0     0.0    0.0
+          >>>                       Parser                  198           2    0.0    0.0     0.0    0.0
+           >>>.\                    Parser                  199           4    0.0    0.0     0.0    0.0
+            retourne                Parser                  205           2    0.0    0.0     0.0    0.0
+             retourne.\             Parser                  206           2    0.0    0.0     0.0    0.0
+          !!!                       Parser                  195           0    0.0    0.0     0.0    0.0
+           !!!.\                    Parser                  196           2    0.0    0.0     0.0    0.0
+         >>>                        Parser                  190           0    0.0    0.0     0.0    0.0
+          >>>.\                     Parser                  191           4    0.0    0.0     0.0    0.0
+         |||                        Parser                  187           0    0.0    0.0     0.0    0.0
+          |||.\                     Parser                  188           1    0.0    0.0     0.0    0.0
+        parserXRequest              Main                    178           0    0.0    0.0     0.0    0.0
+         retourne                   Parser                  236           0    0.0    0.0     0.0    0.0
+          retourne.\                Parser                  237           1    0.0    0.0     0.0    0.0
+         parserWord                 Main                    223           1    0.0    0.0     0.0    0.0
+          parserWord.\              Main                    232           1    0.0    0.0     0.0    0.0
+          parserChars               Main                    230           0    0.0    0.0     0.0    0.0
+           parserChars.\            Main                    231           1    0.0    0.0     0.0    0.0
+          >>>                       Parser                  227           1    0.0    0.0     0.0    0.0
+           >>>.\                    Parser                  228           2    0.0    0.0     0.0    0.0
+            retourne                Parser                  233           1    0.0    0.0     0.0    0.0
+             retourne.\             Parser                  234           1    0.0    0.0     0.0    0.0
+          !!!                       Parser                  224           0    0.0    0.0     0.0    0.0
+           !!!.\                    Parser                  225           1    0.0    0.0     0.0    0.0
+         >>>                        Parser                  182           0    0.0    0.0     0.0    0.0
+          >>>.\                     Parser                  183           2    0.0    0.0     0.0    0.0
+         |||                        Parser                  179           0    0.0    0.0     0.0    0.0
+          |||.\                     Parser                  180           1    0.0    0.0     0.0    0.0
+        >>>                         Parser                  174           1    0.0    0.0     0.0    0.0
+         >>>.\                      Parser                  175           2    0.0    0.0     0.0    0.0
+          retourne                  Parser                  238           1    0.0    0.0     0.0    0.0
+           retourne.\               Parser                  239           1    0.0    0.0     0.0    0.0
+   getAllFile                       Main                    166           1    0.0    0.0     0.0    0.0
+ CAF:main                           Main                    155           0    0.0    0.0     0.0    0.0
+  main                              Main                    164           1    0.0    0.0     0.0    0.0
+ CAF:$dEq_r1MI                      Main                    154           0    0.0    0.0     0.0    0.0
+ CAF:parserTree_r10r                Main                    147           0    0.0    0.0     0.0    0.0
+  parserTree                        Main                    247           1    0.0    0.0     0.0    0.0
+ CAF:parserNoeud_r10s               Main                    146           0    0.0    0.0     0.0    0.0
+  parserNoeud                       Main                    248           1    0.0    0.0     0.0    0.0
+   >>>                              Parser                  253           2    0.0    0.0     0.0    0.0
+   !!!                              Parser                  249           1    0.0    0.0     0.0    0.0
+ CAF:parserElement_r10t             Main                    145           0    0.0    0.0     0.0    0.0
+  parserElement                     Main                    334           1    0.0    0.0     0.0    0.0
+   !!!                              Parser                  335           1    0.0    0.0     0.0    0.0
+ CAF:parserNoeudElement_r10q        Main                    144           0    0.0    0.0     0.0    0.0
+  parserNoeudElement                Main                    339           1    0.0    0.0     0.0    0.0
+   >>>                              Parser                  340           1    0.0    0.0     0.0    0.0
+ CAF:parserTextElement_r10y         Main                    143           0    0.0    0.0     0.0    0.0
+  parserTextElement                 Main                    359           1    0.0    0.0     0.0    0.0
+   >>>                              Parser                  360           1    0.0    0.0     0.0    0.0
+ CAF:parserXRequest_r10J            Main                    142           0    0.0    0.0     0.0    0.0
+  parserXRequest                    Main                    176           1    0.0    0.0     0.0    0.0
+   retourne                         Parser                  235           1    0.0    0.0     0.0    0.0
+   parserWord                       Main                    221           1    0.0    0.0     0.0    0.0
+    parserChars                     Main                    229           1    0.0    0.0     0.0    0.0
+    >>>                             Parser                  226           1    0.0    0.0     0.0    0.0
+    !!!                             Parser                  222           1    0.0    0.0     0.0    0.0
+   >>>                              Parser                  181           2    0.0    0.0     0.0    0.0
+   |||                              Parser                  177           1    0.0    0.0     0.0    0.0
+ CAF:parserPath_r10K                Main                    141           0    0.0    0.0     0.0    0.0
+  parserPath                        Main                    184           1    0.0    0.0     0.0    0.0
+   parserWord                       Main                    192           2    0.0    0.0     0.0    0.0
+    parserChars                     Main                    200           2    0.0    0.0     0.0    0.0
+    >>>                             Parser                  197           2    0.0    0.0     0.0    0.0
+    !!!                             Parser                  193           2    0.0    0.0     0.0    0.0
+   >>>                              Parser                  189           4    0.0    0.0     0.0    0.0
+   |||                              Parser                  185           1    0.0    0.0     0.0    0.0
+ CAF:parserXElement_r10L            Main                    140           0    0.0    0.0     0.0    0.0
+  parserXElement                    Main                    207           1    0.0    0.0     0.0    0.0
+   parserTextUntil                  Main                    215           1    0.0    0.0     0.0    0.0
+   >>>                              Parser                  208           2    0.0    0.0     0.0    0.0
+ CAF:parserText_r10A                Main                    137           0    0.0    0.0     0.0    0.0
+  parserText                        Main                    364           1    0.0    0.0     0.0    0.0
+   parserTextUntil                  Main                    369           1    0.0    0.0     0.0    0.0
+   >>>                              Parser                  365           2    0.0    0.0     0.0    0.0
+ CAF:parserBorneOuvrante_r10u       Main                    136           0    0.0    0.0     0.0    0.0
+  parserBorneOuvrante               Main                    258           1    0.0    0.0     0.0    0.0
+   parserChars                      Main                    266           1    0.0    0.0     0.0    0.0
+   >>>                              Parser                  263           3    0.0    0.0     0.0    0.0
+   !!!                              Parser                  259           1    0.0    0.0     0.0    0.0
+ CAF:parserListeAttributs_r10v      Main                    135           0    0.0    0.0     0.0    0.0
+  parserListeAttributs              Main                    276           1    0.0    0.0     0.0    0.0
+   >>>                              Parser                  288           2    0.0    0.0     0.0    0.0
+   zeroOuPlus                       Parser                  277           1    0.0    0.0     0.0    0.0
+    retourne                        Parser                  321           1    0.0    0.0     0.0    0.0
+    unOuPlus                        Parser                  283           1    0.0    0.0     0.0    0.0
+     >>>                            Parser                  284           1    0.0    0.0     0.0    0.0
+    |||                             Parser                  278           1    0.0    0.0     0.0    0.0
+ CAF:parserAttribut_r10x            Main                    134           0    0.0    0.0     0.0    0.0
+  parserAttribut                    Main                    291           1    0.0    0.0     0.0    0.0
+   >>>                              Parser                  296           1    0.0    0.0     0.0    0.0
+   !!!                              Parser                  292           1    0.0    0.0     0.0    0.0
+ CAF:a_r1MB                         Main                    133           0    0.0    0.0     0.0    0.0
+  parserSpace                       Main                    212           1    0.0    0.0     0.0    0.0
+ CAF:parserNom_r10B                 Main                    132           0    0.0    0.0     0.0    0.0
+  parserNom                         Main                    269           1    0.0    0.0     0.0    0.0
+   parserTextUntil                  Main                    270           1    0.0    0.0     0.0    0.0
+ CAF:parserNomAttribut_r10w         Main                    131           0    0.0    0.0     0.0    0.0
+  parserNomAttribut                 Main                    299           1    0.0    0.0     0.0    0.0
+   parserTextUntil                  Main                    300           1    0.0    0.0     0.0    0.0
+ CAF                                GHC.IO.Handle.FD        124           0    0.0    0.0     0.0    0.0
+ CAF                                GHC.Conc.Signal         119           0    0.0    0.0     0.0    0.0
+ CAF                                GHC.IO.Encoding         116           0    0.0    0.0     0.0    0.0
+ CAF                                GHC.IO.Encoding.Iconv   102           0    0.0    0.0     0.0    0.0
+ CAF                                GHC.IO.FD               100           0    0.0    0.0     0.0    0.0
+  main                              Main                    421           0    0.0    0.0     0.0    0.0
+   getAllFile                       Main                    422           0    0.0    0.0     0.0    0.0

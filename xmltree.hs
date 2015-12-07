@@ -193,7 +193,14 @@ parserWord (c:cs) = do
 					
 
 parserSpace :: Parser [Char]
-parserSpace = zeroOuPlus ( parserChars " \n\r\t" )
+--parserSpace = zeroOuPlus ( parserChars " \n\r\t" )
+parserSpace = MkParser ( \s -> case s of
+							"" -> Left ([], "")
+							(c:cs) -> case elem c " \n\t\r" of
+										True -> case (parse parserSpace cs) of
+											Left ([], str) -> Left ([c], str)
+											Left (ss, str) -> Left ([c] ++ ss, str)
+										False -> Left ([], s) )
 
 parserSpacedWord :: String -> Parser [Char]
 parserSpacedWord str = do
